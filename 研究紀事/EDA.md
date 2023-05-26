@@ -1,4 +1,5 @@
 **Exploratory data analysis** is used to understand the various aspects of the data like the **datatypes** of each feature, **descriptive statistics**, **statistical analysis (univariate, bivariate, multivariate), feature engineering**, **missing values detection, outlier detection, anomaly detection**, and so on.
+EDA用來了解資料不同的面向，如每個特徵的資料型別，描述統計，統計分析（單變數、雙變數、多變數）、特徵工程、異常偵測...等。
 
 **larger datasets do not equal high profits** because they are **not leveraged in the right manner**.
 
