@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "0601e9390520b367",
+    "type": "split",
+    "children": [
+      {
+        "id": "91bed15ba122a46c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5cfc8a864d7bc2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "跟耶穌學步道.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5baa4f5dad3e76a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5756aa30b34f2f08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5110079b8b7f5843",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7597129e7e1e0983",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#耶穌生平",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5348206649451f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5c4c4371e78bdb47",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae88e347e0f7029",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d27d0b5abb8d81ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "跟耶穌學步道.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77701e009985be5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "跟耶穌學步道.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5b99ff2ddca3620",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67ee379261597ee4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "跟耶穌學步道.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "e5cfc8a864d7bc2a",
+  "lastOpenFiles": [
+    "神不按外表偏待人.md",
+    "跟耶穌學步道.md",
+    "講道規劃.md",
+    "@Pagote.md",
+    "@porcheiii2006.md"
+  ]
+}
