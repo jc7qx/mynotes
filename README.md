@@ -1,1 +1,1 @@
-# mynotes
+利用obsidian與github建立一個筆記管理系統
