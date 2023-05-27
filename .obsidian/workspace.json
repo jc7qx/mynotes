@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "讀經心得/讀書會筆記.md",
+                "file": "讀經心得/讀書會講義.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "讀經心得/讀書會筆記.md",
+                "file": "讀經心得/讀書會講義.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "讀經心得/讀書會筆記.md",
+                "file": "讀經心得/讀書會講義.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "讀經心得/讀書會筆記.md"
+                "file": "讀經心得/讀書會講義.md"
               }
             }
           }
@@ -167,10 +167,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d3380875cdaf1c52",
+  "active": "c87b30b3308a011f",
   "lastOpenFiles": [
-    "讀經心得/讀書會講義.md",
+    "讀書會講義.pdf",
     "讀經心得/讀書會筆記.md",
+    "讀經心得/讀書會講義.md",
     "README.md",
     "研究紀事/EDA.md"
   ]
