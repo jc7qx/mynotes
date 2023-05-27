@@ -1,60 +1,63 @@
 {
   "main": {
-    "id": "1d6c115e8c702340",
+    "id": "7ae8b9d677528c1d",
     "type": "split",
     "children": [
       {
-        "id": "dc73d738b977805e",
+        "id": "d94d5a6bfb6d5cae",
         "type": "tabs",
         "children": [
           {
-            "id": "b96716a48c5542ea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "61c488b3ec584d0b",
+            "id": "586114de25be964c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "讀經心得/讀書會筆記.md",
+                "file": "研究紀事/再犯預測/classification.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c87b30b3308a011f",
+            "id": "dedf23c8d8432889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "讀經心得/讀書會講義.md",
+                "file": "研究紀事/再犯預測/RF modeling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8999821fa276376c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myClass/Tossing a Dice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e7a9cf7eaad6f7d0",
+    "id": "0cf41525dfd43cc6",
     "type": "split",
     "children": [
       {
-        "id": "905e34fed7a4de97",
+        "id": "7a3d711e14ef56ca",
         "type": "tabs",
         "children": [
           {
-            "id": "d3380875cdaf1c52",
+            "id": "9d643a3c08864710",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,12 +67,12 @@
             }
           },
           {
-            "id": "f00cce14eddf0761",
+            "id": "069af06494ba52eb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#machinrLearning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +82,15 @@
             }
           },
           {
-            "id": "1df7b542827bf18c",
+            "id": "a9aa08f0bdbdc95c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "03e60dec87d2c446",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,24 +101,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200.5
   },
   "right": {
-    "id": "1ec597d4d6b7f09e",
+    "id": "69864e675deb95bd",
     "type": "split",
     "children": [
       {
-        "id": "7525e171b7dc62e3",
+        "id": "0a6a4cbfd44389ee",
         "type": "tabs",
         "children": [
           {
-            "id": "9514d73854f1b885",
+            "id": "6f14ecd377679ea3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "讀經心得/讀書會講義.md",
-                "collapseAll": false,
+                "file": "研究紀事/再犯預測/classification.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -118,19 +129,19 @@
             }
           },
           {
-            "id": "8388da81252e4e37",
+            "id": "47a992fa44d226d6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "讀經心得/讀書會講義.md",
+                "file": "研究紀事/再犯預測/classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d0b3854bc6abdc80",
+            "id": "76975f35f60a35bd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,20 +152,21 @@
             }
           },
           {
-            "id": "4e659f66f02a44eb",
+            "id": "632de23fe2e6fdff",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "讀經心得/讀書會講義.md"
+                "file": "研究紀事/再犯預測/classification.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -167,19 +179,39 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "c87b30b3308a011f",
+  "active": "586114de25be964c",
   "lastOpenFiles": [
-    "讀經心得/pdf/讀書會講義.pdf",
-    "讀經心得/pdf/講道規劃.pdf",
-    "讀經心得/pdf/跟耶穌學佈道.pdf",
-    "讀經心得/pdf/講道規劃.pdf.sb-bae033b4-YPNtvg",
-    "讀經心得/pdf",
-    "讀經心得/未命名檔案夾",
-    "讀經心得/讀書會講義.pdf",
-    "讀書會講義.pdf",
-    "讀經心得/讀書會筆記.md",
-    "讀經心得/讀書會講義.md",
-    "README.md",
-    "研究紀事/EDA.md"
+    "unity notbooks.md",
+    "研究紀事/再犯預測/classification.md",
+    "myClass/Tossing a Dice.md",
+    "研究紀事/再犯預測/RF modeling.md",
+    "研究紀事/再犯預測/Imbalanced Classification.md",
+    "研究紀事/再犯預測/pandas學習心得.md",
+    "研究紀事/不考慮imbalanced data + 超參數處理.md",
+    "研究紀事/什麼是 Transformer 模型呢？.md",
+    "研究紀事/設定matplotlib中文字.md",
+    "研究紀事/AI 定義.md",
+    "shooting by raycast.md",
+    "AIML應用於矯正事工.md",
+    "Pasted image 20230423202813.png",
+    "Pasted image 20230423183103.png",
+    "Pasted image 20230313215153.png",
+    "跟耶穌學佈道講義.md",
+    "跟耶穌學佈道.pdf",
+    "跟耶穌學佈道.md",
+    "Reference Notes/未命名.md",
+    "讀經心得/跟耶穌學步道.md",
+    "研究紀事/Using machine learning to predict decisions of the European Court of Human Rights.md",
+    "研究紀事/Step-By-Step Framework for Imbalanced Classification Projects.md",
+    "研究紀事/Machine learning and deep learning.md",
+    "研究紀事/Random Forest for Imbalanced Classification.md",
+    "設定matplotlib中文字.md",
+    "不考慮imbalanced data + 超參數處理.md",
+    "myClass",
+    "AI 定義.md",
+    "什麼是 Transformer 模型呢？.md",
+    "Using machine learning to predict decisions of the European Court of Human Rights.md",
+    "Random Forest for Imbalanced Classification.md",
+    "Reference Notes"
   ]
 }
