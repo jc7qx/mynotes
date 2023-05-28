@@ -63,7 +63,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "課程筆記/unity/game case study 2.md",
+                "file": "電子監控.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cfa8c872fe4fe29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "八德智能外役監.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -164,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "課程筆記/unity/game case study 2.md",
+                "file": "八德智能外役監.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "課程筆記/unity/game case study 2.md",
+                "file": "八德智能外役監.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "課程筆記/unity/game case study 2.md"
+                "file": "八德智能外役監.md"
               }
             }
           }
@@ -226,10 +238,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "9d643a3c08864710",
+  "active": "9cfa8c872fe4fe29",
   "lastOpenFiles": [
-    "課程筆記/unity/game case study 2.md",
     "電子監控.md",
+    "八德智能外役監.md",
+    "課程筆記/unity/game case study 2.md",
     "Pasted image 20230423202813.png",
     "Pasted image 20230423183103.png",
     "Pasted image 20230313215153.png",
@@ -258,7 +271,6 @@
     "不考慮imbalanced data + 超參數處理.md",
     "myClass",
     "AI 定義.md",
-    "什麼是 Transformer 模型呢？.md",
     "Reference Notes"
   ]
 }
