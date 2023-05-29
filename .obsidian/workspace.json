@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識管理.md",
+                "file": "課程筆記/知識管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "69864e675deb95bd",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識管理.md",
+                "file": "課程筆記/知識管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識管理.md",
+                "file": "課程筆記/知識管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,10 +188,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "0140f5009d922a92",
+  "active": "9d643a3c08864710",
   "lastOpenFiles": [
     "研究紀事/矯正應用/電子監控.md",
-    "知識管理.md",
+    "課程筆記/知識管理.md",
     "parole.md",
     "研究紀事/再犯預測/RF modeling.md",
     "課程筆記/unity/遊戲實作練習B.md",
