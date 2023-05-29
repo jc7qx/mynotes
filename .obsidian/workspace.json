@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0140f5009d922a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知識管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d90d6800114c36db",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "69864e675deb95bd",
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/矯正應用/電子監控.md",
+                "file": "知識管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/矯正應用/電子監控.md",
+                "file": "知識管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,10 +189,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "76975f35f60a35bd",
+  "active": "0140f5009d922a92",
   "lastOpenFiles": [
-    "parole.md",
     "研究紀事/矯正應用/電子監控.md",
+    "知識管理.md",
+    "parole.md",
     "研究紀事/再犯預測/RF modeling.md",
     "課程筆記/unity/遊戲實作練習B.md",
     "課程筆記/unity/game case study 2.md",
@@ -205,7 +221,6 @@
     "Reference Notes/未命名.md",
     "讀經心得/跟耶穌學步道.md",
     "研究紀事/Using machine learning to predict decisions of the European Court of Human Rights.md",
-    "研究紀事/Step-By-Step Framework for Imbalanced Classification Projects.md",
     "myClass",
     "Reference Notes"
   ]
