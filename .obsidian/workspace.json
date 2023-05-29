@@ -67,21 +67,6 @@
             }
           },
           {
-            "id": "069af06494ba52eb",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#machinrLearning",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "a9aa08f0bdbdc95c",
             "type": "leaf",
             "state": {
@@ -150,24 +135,34 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "632de23fe2e6fdff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "研究紀事/矯正應用/電子監控.md"
-              }
-            }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "0c21c6533552d23a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "069af06494ba52eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#machinrLearning",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +174,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a3aa101f77226c99",
+  "active": "76975f35f60a35bd",
   "lastOpenFiles": [
     "parole.md",
     "研究紀事/矯正應用/電子監控.md",
