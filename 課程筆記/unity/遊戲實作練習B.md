@@ -98,7 +98,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Fire : MonoBehaviour
+public class firing : MonoBehaviour
 {
     public GameObject bombPrefab;
 
@@ -147,7 +147,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Messenger : MonoBehaviour
+public class showmessage : MonoBehaviour
 {
     // Update is called once per frame
     void Update()

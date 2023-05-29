@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "課程筆記/unity/game case study 2.md",
+                "file": "課程筆記/unity/遊戲實作練習B.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "課程筆記/unity/game case study 2.md",
+                "file": "課程筆記/unity/遊戲實作練習B.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "課程筆記/unity/game case study 2.md",
+                "file": "課程筆記/unity/遊戲實作練習B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "課程筆記/unity/game case study 2.md"
+                "file": "課程筆記/unity/遊戲實作練習B.md"
               }
             }
           }
@@ -264,12 +264,13 @@
   },
   "active": "6799ac4f0da8aa99",
   "lastOpenFiles": [
+    "課程筆記/unity/game case study 2.md",
+    "課程筆記/unity/遊戲實作練習B.md",
     "課程筆記/unity/遊戲實作練習B f268a7c3d194487d862c620910c78399.md",
     "研究紀事/矯正應用/戴電子腳鐐壓力太大性侵前科犯自盡.md",
     "研究紀事/矯正應用/如果趙斗淳在台灣會怎樣？.md",
     "研究紀事/矯正應用/八德智能外役監.md",
     "研究紀事/矯正應用/電子監控.md",
-    "課程筆記/unity/game case study 2.md",
     "Pasted image 20230423202813.png",
     "Pasted image 20230423183103.png",
     "Pasted image 20230313215153.png",
@@ -293,7 +294,6 @@
     "研究紀事/Using machine learning to predict decisions of the European Court of Human Rights.md",
     "研究紀事/Step-By-Step Framework for Imbalanced Classification Projects.md",
     "研究紀事/Machine learning and deep learning.md",
-    "研究紀事/Random Forest for Imbalanced Classification.md",
     "myClass",
     "Reference Notes"
   ]
