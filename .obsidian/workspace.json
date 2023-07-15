@@ -11,26 +11,13 @@
             "id": "42bda16918873704",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "研究紀事/知識管理/Zettelkasten卡片盒筆記法的原則.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ef4e6f6f64ab847",
-            "type": "leaf",
-            "state": {
               "type": "mindmapview",
               "state": {
-                "file": "研究紀事/知識管理/Untitled mindmap.md"
+                "file": "研究紀事/知識管理/之.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/知識管理/Untitled mindmap.md",
+                "file": "研究紀事/知識管理/之.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/知識管理/Untitled mindmap.md",
+                "file": "研究紀事/知識管理/之.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/知識管理/Untitled mindmap.md"
+                "file": "研究紀事/知識管理/之.md"
               }
             }
           },
@@ -177,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/知識管理/Untitled mindmap.md",
+                "file": "研究紀事/知識管理/之.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,17 +209,26 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "0ef4e6f6f64ab847",
+  "active": "42bda16918873704",
   "lastOpenFiles": [
-    "研究紀事/知識管理/未命名.md",
-    "研究紀事/知識管理/Untitled mindmap.md",
+    "研究紀事/知識管理/知識經濟.md",
+    "研究紀事/知識管理/卡片盒筆記法.md",
+    "研究紀事/知識管理/卡片索引.md",
     "研究紀事/知識管理/正確使用卡片盒筆記法（Zettelkasten）六個關鍵步驟.md",
+    "研究紀事/知識管理/未命名.md",
+    "研究紀事/知識管理/Zettelkasten卡片盒筆記法的原則.md",
+    "Paste image 1689389528909image.png",
+    "Paste image 1689389576415image.png",
+    "附件/Pasted image 20230711185937.png",
+    "附件/Pasted image 20230713111949.png",
+    "附件/Pasted image 20230713200829.png",
+    "附件/Pasted image 20230713201318.png",
+    "附件/Pasted image 20230713203436.png",
+    "研究紀事/知識管理/之.md",
     "研究紀事/知識管理/My simple note-taking setup Zettelkasten in Obsidian Step-by-step guide.md",
     "研究紀事/知識管理/How to take smart notes.md",
     "研究紀事/知識管理/Zettelkasten.md",
     "研究紀事/知識管理/Zettelkasten卡片盒筆記法.md",
-    "研究紀事/知識管理/Zettelkasten卡片盒筆記法的原則.md",
-    "研究紀事/知識管理/卡片盒筆記法.md",
     "研究紀事/知識管理/索引卡片.md",
     "研究紀事/知識管理/讀書筆記.md",
     "研究紀事/知識管理/靈感筆記.md",
@@ -240,7 +236,6 @@
     "研究紀事/知識管理/永久筆記的關鍵特徵.md",
     "研究紀事/知識管理/我的筆記軟體.md",
     "研究紀事/知識管理/知識表示與推理.md",
-    "研究紀事/知識管理/知識經濟.md",
     "_input/Zettelkasten的工作流程.md",
     "_input/筆記的方式.md",
     "_input/個人知識管理.md",
@@ -252,15 +247,7 @@
     "bgremove_圖片4.png",
     "1689326945761-1689326943822-1689326941088-1689326939580-download.png",
     "1689326943822-1689326941088-1689326939580-download.png",
-    "1689326941088-1689326939580-download.png",
-    "1689326939580-download.png",
-    "附件/Pasted image 20230711185937.png",
-    "附件/圖片1-removebg-preview.png",
-    "讀經心得/讀書會講義.md",
     "附件",
-    "附件/Pasted image 20230713203436.png",
-    "附件/Pasted image 20230713201318.png",
-    "附件/Pasted image 20230713200829.png",
     "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/模型評估",
     "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/量表評估",
     "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/模型效率評估",
