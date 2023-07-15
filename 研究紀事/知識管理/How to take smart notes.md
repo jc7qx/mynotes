@@ -1,0 +1,4 @@
+- Fleeting note ([[靈感筆記]])
+- Permanent note ([[永久筆記]])
+- Literature note ([[文獻筆記]])
+- Project-related note ([[專案筆記]])
