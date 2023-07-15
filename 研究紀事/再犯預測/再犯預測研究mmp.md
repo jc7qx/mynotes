@@ -5,7 +5,7 @@ mindmap-plugin: basic
 # 再犯預測研究
 
 ## 再犯問題
-- 再犯定義
+- [[再犯定義]]
 - 再犯原因
 - 再犯影響
 - 研究目的與目標
@@ -23,12 +23,12 @@ mindmap-plugin: basic
         - 樹狀模型
             - decision tree
         - 集成模型
-            - Random Forest
-            - XGBoost
+            - [[研究紀事/再犯預測/隨機森林|隨機森林]]
+            - [[極限梯度提升]]
     - 預測系統
-        - OASys
-        - COMPAS
-        - 費城政府
+        - [[OASys]]
+        - [[COMPAS]]
+        - [[費城評估假釋犯再犯系統]]
 - 預測倫理
 
 ## 模型實做
