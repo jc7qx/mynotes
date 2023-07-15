@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/再犯預測/未命名.md",
+                "file": "研究紀事/再犯預測/OASys.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/再犯預測/未命名.md",
+                "file": "研究紀事/再犯預測/OASys.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/再犯預測/未命名.md",
+                "file": "研究紀事/再犯預測/OASys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/再犯預測/未命名.md"
+                "file": "研究紀事/再犯預測/OASys.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/再犯預測/未命名.md",
+                "file": "研究紀事/再犯預測/OASys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +214,10 @@
   "active": "42bda16918873704",
   "lastOpenFiles": [
     "研究紀事/再犯預測/再犯預測研究.md",
-    "研究紀事/再犯預測/未命名.md",
+    "研究紀事/再犯預測/OASys.md",
+    "_input/國外文獻.md",
+    "研究紀事/再犯預測/費城評估假釋犯再犯系統.md",
+    "_input/隨機森林.md",
     "_input/法律條文.md",
     "研究紀事/再犯預測/再犯定義.md",
     "研究紀事/再犯預測/pptAED9.tmp",
@@ -250,9 +253,6 @@
     "研究紀事/知識管理/卡片盒筆記法.md",
     "研究紀事/知識管理/未命名.md",
     "研究紀事/知識管理/卡片索引.md",
-    "_input/Zettelkasten的工作流程.md",
-    "_input/筆記的方式.md",
-    "研究紀事/知識管理/知識表示與推理.md",
     "附件",
     "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/模型評估",
     "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/量表評估",
