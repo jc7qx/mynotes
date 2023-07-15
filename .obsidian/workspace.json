@@ -11,9 +11,11 @@
             "id": "42bda16918873704",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究.md"
+                "file": "_input/法律條文.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -69,7 +71,7 @@
       {
         "id": "0a6a4cbfd44389ee",
         "type": "tabs",
-        "dimension": 19.32367149758454,
+        "dimension": 27.72946859903382,
         "children": [
           {
             "id": "6f14ecd377679ea3",
@@ -77,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究.md",
+                "file": "_input/法律條文.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究.md",
+                "file": "_input/法律條文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究.md"
+                "file": "_input/法律條文.md"
               }
             }
           },
@@ -156,7 +158,7 @@
       {
         "id": "4641353d91a1ec6a",
         "type": "tabs",
-        "dimension": 61.35265700483091,
+        "dimension": 52.946859903381636,
         "children": [
           {
             "id": "c92c11dd6c223433",
@@ -164,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究.md",
+                "file": "_input/法律條文.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,11 +213,12 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
+    "研究紀事/再犯預測/再犯預測研究.md",
+    "_input/法律條文.md",
     "研究紀事/再犯預測/pptAED9.tmp",
     "研究紀事/再犯預測/知識管理.pptx",
     "研究紀事/再犯預測/~$知識管理.pptx",
     "研究紀事/再犯預測/再犯定義.md",
-    "研究紀事/再犯預測/再犯預測研究.md",
     "研究紀事/再犯預測/研究緣起.md",
     "Paste image 1689427096024image.png",
     "Paste image 1689427062098image.png",
@@ -255,7 +258,6 @@
     "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/量表評估",
     "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/模型效率評估",
     "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/影響因子重要性 feature selection",
-    "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/模型最佳化-超參數調校",
-    "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/資料不平衡問題"
+    "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/模型最佳化-超參數調校"
   ]
 }
