@@ -11,11 +11,9 @@
             "id": "42bda16918873704",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "研究紀事/知識管理/永久筆記.md",
-                "mode": "source",
-                "source": false
+                "file": "附件/Pasted image 20230713200829.png"
               }
             }
           }
@@ -62,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 247.5
   },
   "right": {
     "id": "69864e675deb95bd",
@@ -79,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/知識管理/永久筆記.md",
+                "file": "附件/Pasted image 20230713200829.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/知識管理/永久筆記.md",
+                "file": "附件/Pasted image 20230713200829.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/知識管理/永久筆記.md"
+                "file": "附件/Pasted image 20230713200829.png"
               }
             }
           },
@@ -166,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/知識管理/永久筆記.md",
+                "file": "附件/Pasted image 20230713200829.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,6 +211,18 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
+    "附件/Pasted image 20230713111949.png",
+    "附件/Pasted image 20230711185937.png",
+    "研究紀事/知識管理/索引卡片.md",
+    "研究紀事/再犯預測/再犯預測研究mmp.md",
+    "1689326943822-1689326941088-1689326939580-download.png",
+    "1689326939580-download.png",
+    "bgremove_圖片4.png",
+    "1689326945761-1689326943822-1689326941088-1689326939580-download.png",
+    "1689326941088-1689326939580-download.png",
+    "Paste image 1689389989886image.png",
+    "Paste image 1689390008511image.png",
+    "研究紀事/知識管理/永久筆記.md",
     "研究紀事/知識管理/文獻筆記.md",
     "研究紀事/知識管理/靈感筆記.md",
     "研究紀事/知識管理/正確使用卡片盒筆記法（Zettelkasten）六個關鍵步驟.md",
@@ -230,25 +240,13 @@
     "研究紀事/知識管理/知識類型.md",
     "Paste image 1689390203566image.png",
     "Paste image 1689390185590image.png",
-    "Paste image 1689390130438image.png",
-    "Paste image 1689390100738image.png",
-    "Paste image 1689390085844image.png",
-    "Paste image 1689390066832image.png",
-    "Paste image 1689390042576image.png",
-    "Paste image 1689390008511image.png",
-    "Paste image 1689389989886image.png",
     "研究紀事/知識管理/知識經濟.md",
-    "Paste image 1689389528909image.png",
     "研究紀事/知識管理/My simple note-taking setup Zettelkasten in Obsidian Step-by-step guide.md",
     "研究紀事/知識管理/How to take smart notes.md",
-    "研究紀事/知識管理/索引卡片.md",
     "研究紀事/知識管理/讀書筆記.md",
-    "研究紀事/知識管理/永久筆記.md",
     "_input/個人知識管理.md",
     "to-do list.md",
     "sldkjf.md",
-    "README.md",
-    "mndmap.md",
     "附件",
     "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/模型評估",
     "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/量表評估",
