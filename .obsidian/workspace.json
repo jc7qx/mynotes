@@ -4,54 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d94d5a6bfb6d5cae",
+        "id": "20b8b6422e798148",
         "type": "tabs",
         "children": [
           {
-            "id": "a3aa101f77226c99",
+            "id": "42bda16918873704",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/矯正應用/電子監控.md",
+                "file": "研究紀事/知識管理/Zettelkasten卡片盒筆記法的原則.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0140f5009d922a92",
+            "id": "0ef4e6f6f64ab847",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "課程筆記/知識管理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d90d6800114c36db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "parole.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dedf23c8d8432889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "研究紀事/再犯預測/RF modeling.md",
-                "mode": "source",
-                "source": false
+                "file": "研究紀事/知識管理/Untitled mindmap.md"
               }
             }
           }
@@ -108,6 +82,7 @@
       {
         "id": "0a6a4cbfd44389ee",
         "type": "tabs",
+        "dimension": 46.50934119960669,
         "children": [
           {
             "id": "6f14ecd377679ea3",
@@ -115,14 +90,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "課程筆記/知識管理.md",
+                "file": "研究紀事/知識管理/Untitled mindmap.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -132,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "課程筆記/知識管理.md",
+                "file": "研究紀事/知識管理/Untitled mindmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,13 +123,31 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "f30e7718855c7d6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "研究紀事/知識管理/Untitled mindmap.md"
+              }
+            }
+          },
+          {
+            "id": "2476e7263b026d20",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "0c21c6533552d23a",
         "type": "tabs",
+        "dimension": 19.66568338249754,
         "children": [
           {
             "id": "069af06494ba52eb",
@@ -162,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#machinrLearning",
+                "query": "tag:#卡片盒筆記法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,11 +165,52 @@
             }
           }
         ]
+      },
+      {
+        "id": "4641353d91a1ec6a",
+        "type": "tabs",
+        "dimension": 33.82497541789577,
+        "children": [
+          {
+            "id": "c92c11dd6c223433",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "研究紀事/知識管理/Untitled mindmap.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 2.18326403326403,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.655498353494692,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,39 +222,53 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "9d643a3c08864710",
+  "active": "0ef4e6f6f64ab847",
   "lastOpenFiles": [
-    "研究紀事/矯正應用/電子監控.md",
-    "課程筆記/知識管理.md",
-    "parole.md",
-    "研究紀事/再犯預測/RF modeling.md",
-    "課程筆記/unity/遊戲實作練習B.md",
-    "課程筆記/unity/game case study 2.md",
-    "課程筆記/unity/遊戲實作練習B f268a7c3d194487d862c620910c78399.md",
-    "研究紀事/矯正應用/戴電子腳鐐壓力太大性侵前科犯自盡.md",
-    "研究紀事/矯正應用/如果趙斗淳在台灣會怎樣？.md",
-    "研究紀事/矯正應用/八德智能外役監.md",
-    "Pasted image 20230423202813.png",
-    "Pasted image 20230423183103.png",
-    "Pasted image 20230313215153.png",
-    "研究紀事/再犯預測/classification.md",
-    "unity notbooks.md",
-    "myClass/Tossing a Dice.md",
-    "研究紀事/再犯預測/Imbalanced Classification.md",
-    "研究紀事/再犯預測/pandas學習心得.md",
-    "研究紀事/不考慮imbalanced data + 超參數處理.md",
-    "研究紀事/什麼是 Transformer 模型呢？.md",
-    "研究紀事/設定matplotlib中文字.md",
-    "研究紀事/AI 定義.md",
-    "shooting by raycast.md",
-    "AIML應用於矯正事工.md",
-    "跟耶穌學佈道講義.md",
-    "跟耶穌學佈道.pdf",
-    "跟耶穌學佈道.md",
-    "Reference Notes/未命名.md",
-    "讀經心得/跟耶穌學步道.md",
-    "研究紀事/Using machine learning to predict decisions of the European Court of Human Rights.md",
-    "myClass",
-    "Reference Notes"
+    "研究紀事/知識管理/未命名.md",
+    "研究紀事/知識管理/Untitled mindmap.md",
+    "研究紀事/知識管理/正確使用卡片盒筆記法（Zettelkasten）六個關鍵步驟.md",
+    "研究紀事/知識管理/My simple note-taking setup Zettelkasten in Obsidian Step-by-step guide.md",
+    "研究紀事/知識管理/How to take smart notes.md",
+    "研究紀事/知識管理/Zettelkasten.md",
+    "研究紀事/知識管理/Zettelkasten卡片盒筆記法.md",
+    "研究紀事/知識管理/Zettelkasten卡片盒筆記法的原則.md",
+    "研究紀事/知識管理/卡片盒筆記法.md",
+    "研究紀事/知識管理/索引卡片.md",
+    "研究紀事/知識管理/讀書筆記.md",
+    "研究紀事/知識管理/靈感筆記.md",
+    "研究紀事/知識管理/永久筆記.md",
+    "研究紀事/知識管理/永久筆記的關鍵特徵.md",
+    "研究紀事/知識管理/我的筆記軟體.md",
+    "研究紀事/知識管理/知識表示與推理.md",
+    "研究紀事/知識管理/知識經濟.md",
+    "_input/Zettelkasten的工作流程.md",
+    "_input/筆記的方式.md",
+    "_input/個人知識管理.md",
+    "to-do list.md",
+    "sldkjf.md",
+    "README.md",
+    "mndmap.md",
+    "mamba.md",
+    "bgremove_圖片4.png",
+    "1689326945761-1689326943822-1689326941088-1689326939580-download.png",
+    "1689326943822-1689326941088-1689326939580-download.png",
+    "1689326941088-1689326939580-download.png",
+    "1689326939580-download.png",
+    "附件/Pasted image 20230711185937.png",
+    "附件/圖片1-removebg-preview.png",
+    "讀經心得/讀書會講義.md",
+    "附件",
+    "附件/Pasted image 20230713203436.png",
+    "附件/Pasted image 20230713201318.png",
+    "附件/Pasted image 20230713200829.png",
+    "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/模型評估",
+    "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/量表評估",
+    "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/模型效率評估",
+    "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/影響因子重要性 feature selection",
+    "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/模型最佳化-超參數調校",
+    "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/資料不平衡問題",
+    "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/XGBoost演算法",
+    "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/隨機森林演算法",
+    "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/決策樹演算法"
   ]
 }
