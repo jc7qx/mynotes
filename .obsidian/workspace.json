@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究mmp.md",
+                "file": "讀經心得/讀書會講義.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究mmp.md",
+                "file": "讀經心得/讀書會講義.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究mmp.md",
+                "file": "讀經心得/讀書會講義.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究mmp.md"
+                "file": "讀經心得/讀書會講義.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究mmp.md",
+                "file": "讀經心得/讀書會講義.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,9 +213,17 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
-    "研究紀事/再犯預測/費城評估假釋犯再犯系統.md",
-    "研究紀事/再犯預測/再犯預測研究mmp.md",
+    "mndmap.md",
     "研究紀事/再犯預測/再犯預測研究.md",
+    "parole.md",
+    "Paste image 1689426663768image.png",
+    "Paste image 1689427096024image.png",
+    "Paste image 1689427062098image.png",
+    "Paste image 1689426896507image.png",
+    "Paste image 1689426793875image.png",
+    "Paste image 1689426710085image.png",
+    "研究紀事/再犯預測/再犯預測研究mmp.md",
+    "研究紀事/再犯預測/費城評估假釋犯再犯系統.md",
     "研究紀事/再犯預測/COMPAS.md",
     "研究紀事/再犯預測/Imbalanced Classification.md",
     "_input/不平衡分類.md",
@@ -237,12 +245,6 @@
     "研究紀事/再犯預測/pptAED9.tmp",
     "研究紀事/再犯預測/知識管理.pptx",
     "研究紀事/再犯預測/研究緣起.md",
-    "Paste image 1689427096024image.png",
-    "Paste image 1689427062098image.png",
-    "Paste image 1689426896507image.png",
-    "Paste image 1689426793875image.png",
-    "Paste image 1689426710085image.png",
-    "Paste image 1689426663768image.png",
     "附件/Pasted image 20230713203436.png",
     "附件/Pasted image 20230713201318.png",
     "附件/錄製_2023_06_16_18_17_56_888.mp4",
@@ -253,8 +255,6 @@
     "研究紀事/知識管理/Zettelkasten.md",
     "研究紀事/知識管理/Zettelkasten卡片盒筆記法的原則.md",
     "研究紀事/知識管理/Zettelkasten卡片盒筆記法.md",
-    "研究紀事/知識管理/文獻筆記.md",
-    "研究紀事/數位筆記工具.md",
     "附件",
     "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/模型評估",
     "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/量表評估",

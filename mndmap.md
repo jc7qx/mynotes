@@ -1,3 +1,7 @@
+---
+mindmap-plugin: basic
+---
+
 ## AI for GUP
 * [ ] machine learning
 * [ ]  natural language processing
