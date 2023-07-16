@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_input/parole.md",
+                "file": "_input/不平衡分類.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_input/parole.md",
+                "file": "_input/不平衡分類.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_input/parole.md",
+                "file": "_input/不平衡分類.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_input/parole.md"
+                "file": "_input/不平衡分類.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_input/parole.md",
+                "file": "_input/不平衡分類.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,19 +214,25 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
-    "_input/pptTest.md",
-    "_input/parole.md",
-    "_input/Obsidian.md",
-    "_input/GPU for AI.md",
-    "_input/Generative AI.md",
-    "_input/chatGPT.md",
-    "_input/筆記的方式.md",
+    "_input/心智圖.md",
+    "_input/受教的心.md",
+    "_input/法律條文.md",
+    "_input/個人知識管理.md",
     "_input/造就部報告.md",
+    "_input/Generative AI.md",
+    "_input/筆記類別.md",
+    "研究紀事/再犯預測/隨機森林.md",
+    "_input/隨機森林.md",
+    "_input/策略.md",
+    "_input/chatGPT.md",
+    "_input/GPU for AI.md",
+    "_input/Obsidian.md",
+    "_input/parole.md",
+    "_input/Zettelkasten的工作流程.md",
+    "_input/pptTest.md",
     "_input/國外文獻.md",
     "讀經心得/讀書會講義.md",
     "研究紀事/再犯預測/~$知識管理.pptx",
-    "_input/策略.md",
-    "_input/受教的心.md",
     "mndmap.md",
     "研究紀事/再犯預測/再犯預測研究.md",
     "parole.md",
@@ -243,14 +249,8 @@
     "_input/不平衡分類.md",
     "研究紀事/再犯預測/ppt9B50.tmp",
     "研究紀事/再犯預測/ppt51A.tmp",
-    "研究紀事/再犯預測/隨機森林.md",
-    "研究紀事/再犯預測/極限梯度提升.md",
-    "研究紀事/再犯預測/監督式機器學習.md",
-    "研究紀事/再犯預測/觀護人使用情境.md",
     "附件/Pasted image 20230715224245.png",
-    "研究紀事/再犯預測/觀護作業流程.md",
     "附件/Pasted image 20230715223940.png",
-    "研究紀事/再犯預測/OASys.md",
     "研究紀事/再犯預測/pptAED9.tmp",
     "研究紀事/再犯預測/知識管理.pptx",
     "附件/Pasted image 20230713203436.png",
