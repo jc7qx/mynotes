@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_input/國外文獻.md",
+                "file": "_input/parole.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2d9a1e4b05a47c06",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "885a26c374c1a71c",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -93,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_input/國外文獻.md",
+                "file": "_input/parole.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_input/國外文獻.md",
+                "file": "_input/parole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_input/國外文獻.md"
+                "file": "_input/parole.md"
               }
             }
           },
@@ -180,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_input/國外文獻.md",
+                "file": "_input/parole.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,6 +215,14 @@
   "active": "42bda16918873704",
   "lastOpenFiles": [
     "_input/pptTest.md",
+    "_input/parole.md",
+    "_input/Obsidian.md",
+    "_input/GPU for AI.md",
+    "_input/Generative AI.md",
+    "_input/chatGPT.md",
+    "_input/筆記的方式.md",
+    "_input/造就部報告.md",
+    "_input/國外文獻.md",
     "讀經心得/讀書會講義.md",
     "研究紀事/再犯預測/~$知識管理.pptx",
     "_input/策略.md",
@@ -257,19 +251,11 @@
     "研究紀事/再犯預測/觀護作業流程.md",
     "附件/Pasted image 20230715223940.png",
     "研究紀事/再犯預測/OASys.md",
-    "_input/國外文獻.md",
-    "_input/隨機森林.md",
-    "_input/法律條文.md",
-    "研究紀事/再犯預測/再犯定義.md",
     "研究紀事/再犯預測/pptAED9.tmp",
     "研究紀事/再犯預測/知識管理.pptx",
-    "研究紀事/再犯預測/研究緣起.md",
     "附件/Pasted image 20230713203436.png",
     "附件/Pasted image 20230713201318.png",
     "附件/錄製_2023_06_16_18_17_56_888.mp4",
-    "研究紀事/再犯預測/再犯預測研究MOC.md",
-    "研究紀事/知識管理/正確使用卡片盒筆記法（Zettelkasten）六個關鍵步驟.md",
-    "研究紀事/知識管理/索引卡片.md",
     "附件",
     "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/模型評估",
     "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/量表評估",
