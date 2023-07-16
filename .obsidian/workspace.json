@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "讀經心得/讀書會講義.md",
-                "mode": "preview",
+                "file": "_input/國外文獻.md",
+                "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2d9a1e4b05a47c06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "885a26c374c1a71c",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -79,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "讀經心得/讀書會講義.md",
+                "file": "_input/國外文獻.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "讀經心得/讀書會講義.md",
+                "file": "_input/國外文獻.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "讀經心得/讀書會講義.md"
+                "file": "_input/國外文獻.md"
               }
             }
           },
@@ -166,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "讀經心得/讀書會講義.md",
+                "file": "_input/國外文獻.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,14 +222,16 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
+    "_input/pptTest.md",
+    "讀經心得/讀書會講義.md",
     "研究紀事/再犯預測/~$知識管理.pptx",
     "_input/策略.md",
-    "讀經心得/讀書會講義.md",
     "_input/受教的心.md",
     "mndmap.md",
     "研究紀事/再犯預測/再犯預測研究.md",
