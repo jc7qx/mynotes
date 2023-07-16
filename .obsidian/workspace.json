@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_input/策略.md",
+                "file": "讀經心得/讀書會講義.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_input/策略.md",
+                "file": "讀經心得/讀書會講義.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_input/策略.md",
+                "file": "讀經心得/讀書會講義.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_input/策略.md"
+                "file": "讀經心得/讀書會講義.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_input/策略.md",
+                "file": "讀經心得/讀書會講義.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,8 +213,8 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
-    "讀經心得/讀書會講義.md",
     "_input/策略.md",
+    "讀經心得/讀書會講義.md",
     "mndmap.md",
     "研究紀事/再犯預測/再犯預測研究.md",
     "parole.md",
