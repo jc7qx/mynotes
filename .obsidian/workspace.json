@@ -6,6 +6,7 @@
       {
         "id": "20b8b6422e798148",
         "type": "tabs",
+        "dimension": 71.12244897959184,
         "children": [
           {
             "id": "42bda16918873704",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/知識管理/文獻筆記.md",
+                "file": "研究紀事/知識管理/whisper.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +26,7 @@
       {
         "id": "3fdb28a18d14d00c",
         "type": "tabs",
+        "dimension": 28.877551020408166,
         "children": [
           {
             "id": "07c244e8ae87c306",
@@ -32,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/知識管理/文獻筆記.md",
+                "file": "研究紀事/知識管理/whisper.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/知識管理/文獻筆記.md",
+                "file": "研究紀事/知識管理/whisper.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/知識管理/文獻筆記.md",
+                "file": "研究紀事/知識管理/whisper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/知識管理/文獻筆記.md"
+                "file": "研究紀事/知識管理/whisper.md"
               }
             }
           },
@@ -209,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/知識管理/文獻筆記.md",
+                "file": "研究紀事/知識管理/whisper.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,6 +260,19 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
+    "研究紀事/知識管理/Zettelkasten.md",
+    "研究紀事/知識管理/Zettelkasten卡片盒筆記法.md",
+    "研究紀事/知識管理/Zettelkasten卡片盒筆記法的原則.md",
+    "研究紀事/知識管理/靈感筆記.md",
+    "研究紀事/知識管理/讀書筆記.md",
+    "研究紀事/知識管理/索引卡片.md",
+    "研究紀事/知識管理/知識類型.md",
+    "研究紀事/知識管理/我的筆記軟體.md",
+    "研究紀事/知識管理/知識表示與推理.md",
+    "研究紀事/知識管理/知識經濟.md",
+    "研究紀事/知識管理/永久筆記.md",
+    "研究紀事/知識管理/How to take smart notes.md",
+    "研究紀事/知識管理/文獻筆記.md",
     "研究紀事/矯正應用/戴電子腳鐐壓力太大性侵前科犯自盡.md",
     "研究紀事/矯正應用/電子監控.md",
     "研究紀事/矯正應用/茂德.md",
@@ -271,19 +286,6 @@
     "_input/「再犯」相關的風險因子.md",
     "_input/再犯風險評估.md",
     "研究紀事/再犯預測/研究緣起.md",
-    "研究紀事/再犯預測/再犯定義.md",
-    "_input/不平衡分類.md",
-    "_input/心智圖.md",
-    "_input/受教的心.md",
-    "_input/法律條文.md",
-    "_input/個人知識管理.md",
-    "_input/造就部報告.md",
-    "_input/Generative AI.md",
-    "_input/筆記類別.md",
-    "研究紀事/再犯預測/隨機森林.md",
-    "_input/隨機森林.md",
-    "_input/策略.md",
-    "_input/chatGPT.md",
     "研究紀事/再犯預測/~$知識管理.pptx",
     "Paste image 1689426663768image.png",
     "Paste image 1689427096024image.png",
