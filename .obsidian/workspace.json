@@ -11,9 +11,11 @@
             "id": "42bda16918873704",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究.md"
+                "file": "研究紀事/再犯預測/OASys.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -77,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究.md",
+                "file": "研究紀事/再犯預測/OASys.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究.md",
+                "file": "研究紀事/再犯預測/OASys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究.md"
+                "file": "研究紀事/再犯預測/OASys.md"
               }
             }
           },
@@ -164,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/再犯預測/再犯預測研究.md",
+                "file": "研究紀事/再犯預測/OASys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,8 +213,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "069af06494ba52eb",
+  "active": "42bda16918873704",
   "lastOpenFiles": [
+    "研究紀事/再犯預測/再犯預測研究.md",
     "_input/再犯風險評估輔助系統.md",
     "_input/「再犯」相關的風險因子.md",
     "_input/再犯風險評估.md",
@@ -239,7 +242,6 @@
     "讀經心得/讀書會講義.md",
     "研究紀事/再犯預測/~$知識管理.pptx",
     "mndmap.md",
-    "研究紀事/再犯預測/再犯預測研究.md",
     "Paste image 1689426663768image.png",
     "Paste image 1689427096024image.png",
     "Paste image 1689427062098image.png",
