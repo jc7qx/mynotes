@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/再犯預測/OASys.md",
+                "file": "研究紀事/知識管理/文獻筆記.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "b715a8fdb7b01090"
+          }
+        ]
+      },
+      {
+        "id": "3fdb28a18d14d00c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07c244e8ae87c306",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "研究紀事/知識管理/文獻筆記.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.347920997921,
+                  "lineSizeMultiplier": 2.46850311850312,
+                  "collapse-forces": true,
+                  "centerStrength": 0.728690228690229,
+                  "repelStrength": 17.4012474012474,
+                  "linkStrength": 1,
+                  "linkDistance": 173,
+                  "scale": 0.6554983534946917,
+                  "close": true
+                }
+              }
+            },
+            "group": "b715a8fdb7b01090"
           }
         ]
       }
@@ -79,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/再犯預測/OASys.md",
+                "file": "研究紀事/知識管理/文獻筆記.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/再犯預測/OASys.md",
+                "file": "研究紀事/知識管理/文獻筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/再犯預測/OASys.md"
+                "file": "研究紀事/知識管理/文獻筆記.md"
               }
             }
           },
@@ -166,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/再犯預測/OASys.md",
+                "file": "研究紀事/知識管理/文獻筆記.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,6 +258,14 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
+    "研究紀事/矯正應用/戴電子腳鐐壓力太大性侵前科犯自盡.md",
+    "研究紀事/矯正應用/電子監控.md",
+    "研究紀事/矯正應用/茂德.md",
+    "_input/德行東路一段.md",
+    "研究紀事/矯正應用/test1.md",
+    "_input/自行車.md",
+    "_input/小客車.md",
+    "研究紀事/再犯預測/OASys.md",
     "研究紀事/再犯預測/再犯預測研究.md",
     "_input/再犯風險評估輔助系統.md",
     "_input/「再犯」相關的風險因子.md",
@@ -233,15 +284,7 @@
     "_input/隨機森林.md",
     "_input/策略.md",
     "_input/chatGPT.md",
-    "_input/GPU for AI.md",
-    "_input/Obsidian.md",
-    "_input/parole.md",
-    "_input/Zettelkasten的工作流程.md",
-    "_input/pptTest.md",
-    "_input/國外文獻.md",
-    "讀經心得/讀書會講義.md",
     "研究紀事/再犯預測/~$知識管理.pptx",
-    "mndmap.md",
     "Paste image 1689426663768image.png",
     "Paste image 1689427096024image.png",
     "Paste image 1689427062098image.png",
