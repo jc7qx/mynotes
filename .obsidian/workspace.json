@@ -6,7 +6,7 @@
       {
         "id": "20b8b6422e798148",
         "type": "tabs",
-        "dimension": 71.12244897959184,
+        "dimension": 47.36328125,
         "children": [
           {
             "id": "42bda16918873704",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
+                "file": "_input/小客車.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
       {
         "id": "3fdb28a18d14d00c",
         "type": "tabs",
-        "dimension": 28.87755102040817,
+        "dimension": 52.63671875,
         "children": [
           {
             "id": "07c244e8ae87c306",
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
+                "file": "_input/小客車.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
+                "file": "_input/小客車.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
+                "file": "_input/小客車.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md"
+                "file": "_input/小客車.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
+                "file": "_input/小客車.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,8 +260,14 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
-    "研究紀事/知識管理/whisper.md",
+    "_input/摩托車.md",
+    "_input/德行東路一段.md",
+    "_input/小客車.md",
+    "研究紀事/矯正應用/test3.md",
+    "研究紀事/矯正應用/test1.md",
+    "_input/自行車.md",
     "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
+    "研究紀事/知識管理/whisper.md",
     "研究紀事/知識管理/How to take smart notes.md",
     "研究紀事/知識管理/My simple note-taking setup Zettelkasten in Obsidian Step-by-step guide.md",
     "研究紀事/知識管理/永久筆記的關鍵特徵.md",
@@ -280,12 +286,6 @@
     "研究紀事/矯正應用/戴電子腳鐐壓力太大性侵前科犯自盡.md",
     "研究紀事/矯正應用/電子監控.md",
     "研究紀事/矯正應用/茂德.md",
-    "_input/德行東路一段.md",
-    "研究紀事/矯正應用/test1.md",
-    "_input/自行車.md",
-    "_input/小客車.md",
-    "研究紀事/再犯預測/OASys.md",
-    "研究紀事/再犯預測/再犯預測研究.md",
     "研究紀事/再犯預測/~$知識管理.pptx",
     "Paste image 1689426663768image.png",
     "Paste image 1689427096024image.png",
