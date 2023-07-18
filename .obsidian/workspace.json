@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/台塑演習/未命名.md",
+                "file": "_input/SCENARIO 2.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "bd63bda4e93948a6"
+          }
+        ]
+      },
+      {
+        "id": "357476a6f3ca81f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c828f7ab2310b233",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "_input/SCENARIO 2.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "bd63bda4e93948a6"
           }
         ]
       }
@@ -79,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/台塑演習/未命名.md",
+                "file": "_input/SCENARIO 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/台塑演習/未命名.md",
+                "file": "_input/SCENARIO 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/台塑演習/未命名.md"
+                "file": "_input/SCENARIO 2.md"
               }
             }
           },
@@ -166,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/台塑演習/未命名.md",
+                "file": "_input/SCENARIO 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,7 +259,8 @@
   "active": "42bda16918873704",
   "lastOpenFiles": [
     "研究紀事/台塑演習/前五項資安事件應變反應桌上兵推想定.md",
-    "研究紀事/台塑演習/未命名.md",
+    "_input/SCENARIO 2.md",
+    "研究紀事/台塑演習/SCENARIO 1.md",
     "研究紀事/台塑演習/勒索攻擊想定.md",
     "_input/Ransomware.md",
     "_input/桌上兵推.md",
@@ -241,7 +285,6 @@
     "研究紀事/知識管理/索引卡片.md",
     "研究紀事/知識管理/知識類型.md",
     "研究紀事/知識管理/知識表示與推理.md",
-    "研究紀事/知識管理/知識經濟.md",
     "研究紀事/再犯預測/~$知識管理.pptx",
     "Paste image 1689426663768image.png",
     "Paste image 1689427096024image.png",
