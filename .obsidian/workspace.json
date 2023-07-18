@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
+                "file": "_input/桌上兵推.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
+                "file": "_input/桌上兵推.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
+                "file": "_input/桌上兵推.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
+                "file": "_input/桌上兵推.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md"
+                "file": "_input/桌上兵推.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
+                "file": "_input/桌上兵推.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,8 +260,10 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
-    "_input/Ransomware.md",
+    "附件/Pasted image 20230718103630.png",
     "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
+    "_input/桌上兵推.md",
+    "_input/Ransomware.md",
     "_input/小客車.md",
     "_input/摩托車.md",
     "_input/德行東路一段.md",
@@ -284,8 +286,6 @@
     "研究紀事/知識管理/知識經濟.md",
     "研究紀事/知識管理/永久筆記.md",
     "研究紀事/知識管理/文獻筆記.md",
-    "研究紀事/矯正應用/戴電子腳鐐壓力太大性侵前科犯自盡.md",
-    "研究紀事/矯正應用/電子監控.md",
     "研究紀事/再犯預測/~$知識管理.pptx",
     "Paste image 1689426663768image.png",
     "Paste image 1689427096024image.png",
