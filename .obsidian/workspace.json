@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/知識管理/whisper.md",
+                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/知識管理/whisper.md",
+                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/知識管理/whisper.md",
+                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/知識管理/whisper.md",
+                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/知識管理/whisper.md"
+                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/知識管理/whisper.md",
+                "file": "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,11 +260,12 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
+    "研究紀事/知識管理/whisper.md",
+    "研究紀事/台塑演習/Top 5 ICS Incident Response Tabletop Scenarios.md",
     "研究紀事/知識管理/How to take smart notes.md",
     "研究紀事/知識管理/My simple note-taking setup Zettelkasten in Obsidian Step-by-step guide.md",
     "研究紀事/知識管理/永久筆記的關鍵特徵.md",
     "研究紀事/知識管理/我的筆記軟體.md",
-    "研究紀事/知識管理/whisper.md",
     "研究紀事/知識管理/Zettelkasten.md",
     "研究紀事/知識管理/Zettelkasten卡片盒筆記法.md",
     "研究紀事/知識管理/Zettelkasten卡片盒筆記法的原則.md",
@@ -285,7 +286,6 @@
     "_input/小客車.md",
     "研究紀事/再犯預測/OASys.md",
     "研究紀事/再犯預測/再犯預測研究.md",
-    "_input/再犯風險評估輔助系統.md",
     "研究紀事/再犯預測/~$知識管理.pptx",
     "Paste image 1689426663768image.png",
     "Paste image 1689427096024image.png",
