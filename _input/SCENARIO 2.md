@@ -7,6 +7,8 @@
 
 防護：網管、流程控制、作業人員循作業規定回報事件
 
-偵測：遠端存取事件監控（外部->內部，內部->內部），多因子驗證，在ICS DMZ使用 [[jump box]]
+偵測：遠端存取事件監控（外部->內部，內部->內部-RDP），多因子驗證，ICS DMZ使用 [[jump box]] (Purdue Level 3, etc.)
+
+應變：關閉遠端存取，run ICS on plant floor via embedded HMIs, 調查NSM網路通訊模式，enable islanding from Internet, IT, etc.
 
 
