@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "研究紀事/台塑演習/Contaminated Transient Device SCENARIO.md",
+                    "file": "研究紀事/台塑演習/台塑麥寮.md",
                     "mode": "source",
                     "source": false
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "研究紀事/台塑演習/Contaminated Transient Device SCENARIO.md",
+                    "file": "研究紀事/台塑演習/台塑麥寮.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/台塑演習/Contaminated Transient Device SCENARIO.md",
+                "file": "研究紀事/台塑演習/台塑麥寮.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/台塑演習/Contaminated Transient Device SCENARIO.md",
+                "file": "研究紀事/台塑演習/台塑麥寮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/台塑演習/Contaminated Transient Device SCENARIO.md"
+                "file": "研究紀事/台塑演習/台塑麥寮.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/台塑演習/Contaminated Transient Device SCENARIO.md",
+                "file": "研究紀事/台塑演習/台塑麥寮.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,8 +267,9 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
-    "研究紀事/台塑演習/SCENARIO 4.md",
     "研究紀事/台塑演習/Contaminated Transient Device SCENARIO.md",
+    "研究紀事/台塑演習/台塑麥寮.md",
+    "研究紀事/台塑演習/SCENARIO 4.md",
     "研究紀事/台塑演習/SCENARIO 5.md",
     "研究紀事/台塑演習/SCENARIO 3.md",
     "研究紀事/台塑演習/SCENARIO 2.md",
@@ -294,7 +295,6 @@
     "研究紀事/知識管理/How to take smart notes.md",
     "研究紀事/知識管理/My simple note-taking setup Zettelkasten in Obsidian Step-by-step guide.md",
     "研究紀事/知識管理/永久筆記的關鍵特徵.md",
-    "研究紀事/知識管理/我的筆記軟體.md",
     "研究紀事/再犯預測/~$知識管理.pptx",
     "Paste image 1689426663768image.png",
     "Paste image 1689427096024image.png",
