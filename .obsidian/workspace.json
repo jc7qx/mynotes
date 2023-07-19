@@ -261,8 +261,7 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "command-palette:開啟命令面板": false
     }
   },
   "active": "42bda16918873704",
