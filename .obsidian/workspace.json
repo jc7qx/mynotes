@@ -11,11 +11,9 @@
             "id": "42bda16918873704",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "_input/2023-07-20.md",
-                "mode": "source",
-                "source": false
+                "file": "研究紀事/台塑演習/112年關鍵基礎設施防護演習劇本綱要_(全)23-0607.pdf"
               }
             }
           }
@@ -79,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_input/2023-07-20.md",
+                "file": "研究紀事/台塑演習/112年關鍵基礎設施防護演習劇本綱要_(全)23-0607.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_input/2023-07-20.md",
+                "file": "研究紀事/台塑演習/112年關鍵基礎設施防護演習劇本綱要_(全)23-0607.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_input/2023-07-20.md"
+                "file": "研究紀事/台塑演習/112年關鍵基礎設施防護演習劇本綱要_(全)23-0607.pdf"
               }
             }
           },
@@ -166,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_input/2023-07-20.md",
+                "file": "研究紀事/台塑演習/112年關鍵基礎設施防護演習劇本綱要_(全)23-0607.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,8 +213,10 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
-    "研究紀事/台塑演習/台塑麥寮.md",
     "_input/2023-07-20.md",
+    "研究紀事/台塑演習/112年關鍵基礎設施防護演習劇本綱要_(全)23-0607.pdf",
+    "研究紀事/台塑演習/台塑過去演習資料_演習編組.pdf",
+    "研究紀事/台塑演習/台塑麥寮.md",
     "研究紀事/台塑演習/Contaminated Transient Device SCENARIO.md",
     "研究紀事/台塑演習/SCENARIO 4.md",
     "研究紀事/台塑演習/SCENARIO 5.md",
@@ -242,7 +242,6 @@
     "_input/自行車.md",
     "研究紀事/知識管理/whisper.md",
     "研究紀事/知識管理/How to take smart notes.md",
-    "研究紀事/知識管理/My simple note-taking setup Zettelkasten in Obsidian Step-by-step guide.md",
     "研究紀事/再犯預測/~$知識管理.pptx",
     "Paste image 1689426663768image.png",
     "Paste image 1689427096024image.png",
@@ -258,8 +257,6 @@
     "研究紀事/再犯預測/知識管理.pptx",
     "附件/錄製_2023_06_16_18_17_56_888.mp4",
     "附件",
-    "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/模型評估",
-    "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/量表評估",
-    "研究紀事/再犯預測期末報告/02-方法論/02-02機器學習演算法/模型效率評估"
+    "研究紀事/再犯預測期末報告/02-方法論/02-01再犯預測模型/模型評估"
   ]
 }
