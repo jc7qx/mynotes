@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/台塑演習/前五項資安事件應變反應桌上兵推想定.md",
+                "file": "_input/資安想訂購想 to 趙偉州.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/台塑演習/前五項資安事件應變反應桌上兵推想定.md",
+                "file": "_input/資安想訂購想 to 趙偉州.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/台塑演習/前五項資安事件應變反應桌上兵推想定.md",
+                "file": "_input/資安想訂購想 to 趙偉州.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/台塑演習/前五項資安事件應變反應桌上兵推想定.md"
+                "file": "_input/資安想訂購想 to 趙偉州.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/台塑演習/前五項資安事件應變反應桌上兵推想定.md",
+                "file": "_input/資安想訂購想 to 趙偉州.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,8 +215,11 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
-    "研究紀事/台塑演習/SCENARIO 4.md",
+    "研究紀事/台塑演習/10個勒索軟體攻擊想定.md",
+    "_input/資安想訂購想 to 趙偉州.md",
+    "_input/Ransomware.md",
     "研究紀事/台塑演習/前五項資安事件應變反應桌上兵推想定.md",
+    "研究紀事/台塑演習/SCENARIO 4.md",
     "研究紀事/台塑演習/SCENARIO 5.md",
     "研究紀事/台塑演習/SCENARIO 3.md",
     "研究紀事/台塑演習/SCENARIO 2.md",
@@ -232,9 +235,7 @@
     "_input/multi-factor authentication.md",
     "附件/Pasted image 20230718161752.png",
     "研究紀事/台塑演習/勒索攻擊想定.md",
-    "_input/Ransomware.md",
     "_input/桌上兵推.md",
-    "研究紀事/台塑演習/10個勒索軟體攻擊想定.md",
     "附件/Pasted image 20230718103630.png",
     "_input/小客車.md",
     "_input/摩托車.md",
