@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/台塑演習/ICS基礎.md",
+                "file": "研究紀事/機器學習/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/台塑演習/ICS基礎.md",
+                "file": "研究紀事/機器學習/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/台塑演習/ICS基礎.md",
+                "file": "研究紀事/機器學習/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/台塑演習/ICS基礎.md"
+                "file": "研究紀事/機器學習/未命名.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/台塑演習/ICS基礎.md",
+                "file": "研究紀事/機器學習/未命名.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,10 +215,11 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
+    "研究紀事/台塑演習/ICS基礎.md",
+    "研究紀事/機器學習/未命名.md",
     "附件/Pasted image 20230721121700.png",
     "附件/Pasted image 20230721120612.png",
     "附件/Pasted image 20230721120948.png",
-    "研究紀事/台塑演習/ICS基礎.md",
     "附件/Pasted image 20230721120557.png",
     "研究紀事/台塑演習/10個勒索軟體攻擊想定.md",
     "課程筆記/netlogo 學習筆記.md",
@@ -253,7 +254,6 @@
     "Paste image 1689427096024image.png",
     "Paste image 1689427062098image.png",
     "Paste image 1689426896507image.png",
-    "Paste image 1689426793875image.png",
     "研究紀事/再犯預測/ppt9B50.tmp",
     "研究紀事/再犯預測/ppt51A.tmp",
     "研究紀事/再犯預測/pptAED9.tmp",
