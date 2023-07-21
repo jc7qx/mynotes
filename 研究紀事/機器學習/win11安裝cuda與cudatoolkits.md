@@ -4,3 +4,4 @@
 	CUDA 核心 3584 ???
 2. 下載 cuda
 	NVIDIA Studio Driver - WHQL 驱动程序版本: 527.56 - 发行日期: Thu Dec 08, 2022
+	CUDA 12.0 GA
