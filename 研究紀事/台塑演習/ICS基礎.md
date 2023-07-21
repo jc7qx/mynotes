@@ -14,4 +14,14 @@ Defense-in-Depth Model
 * romote access
 * physical protection
 ![[Pasted image 20230721121700.png]]
-
+ICS資通攻擊模式
+* 直接攻擊ICS裝備
+	* 利用裝置的弱點
+	* 影響有限
+* 阻絕服務/阻絕控制
+	* 有限的知識及資源即可
+	* 不太會造成災難性影響
+* 複雜流程攻擊
+	* 集合ICS、流程、資通安全知識
+	* 複雜及持續攻擊
+	* 可能造成災難性衝擊
