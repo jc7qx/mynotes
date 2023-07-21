@@ -4,4 +4,14 @@ ICS由IT系統組成用於控制工業製程(industrial process)，系統組成�
 
 ICS與IT的資安防護理念
 IT -> Confidentiality, Integrity, Availability
+ICS (Lower-Level) -> Safety, Availability, Integrity, Confidentiality
+ICS (Higer-Level) -> Safety, Integrity, Availability, Confidentiality
+
+Defense-in-Depth Model
+* system (include Policies & procedures)
+* system design
+* network design
+* romote access
+* physical protection
+![[Pasted image 20230721121700.png]]
 
