@@ -60,3 +60,8 @@ Havex
 * 「Energetic Bear」駭客組織攻擊能源領域
 * 蒐集有關OPC傳統伺服器資訊，而非POC-UA
 * 利用DCOM找出可能的網路上伺服器
+* Capable of Enumerating OPC Tags
+* ICS-CERT測試顯示伺服器毀損
+* 資源包括ICS-CERT, Symantec, CrowdStrike, F-Secure, FireEye, DigitalBond
+
+想定
