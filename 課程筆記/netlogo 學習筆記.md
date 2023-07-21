@@ -4,3 +4,4 @@
 [什麼是netlogo?什麼是ABM（Agent-Based Modeling）?](https://www.togetherhoo.com/how-to/netlogo/3374/)
 [Agent-Based Evolutionary Game Dynamics](https://math.libretexts.org/Bookshelves/Applied_Mathematics/Agent-Based_Evolutionary_Game_Dynamics_(Izquierdo_Izquierdo_and_Sandholm))
 [Introduction to Agent-based Modeling with NetLogo(coursera)](https://www.coursera.org/projects/abm-netlogo)
+[NetLogo Practicals](https://www.geog.leeds.ac.uk/courses/level3/geog3150/practicals/practicals/)
