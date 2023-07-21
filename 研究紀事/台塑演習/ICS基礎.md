@@ -65,3 +65,5 @@ Havex
 * 資源包括ICS-CERT, Symantec, CrowdStrike, F-Secure, FireEye, DigitalBond
 
 想定
+1. 電力產生過程使渦輪超速，利用仿造ICS資通安全研究公司發出的垃圾釣魚郵件
+2. 阿摩尼亞工廠爆炸，製程中操控加熱，關閉警示及安全系統
