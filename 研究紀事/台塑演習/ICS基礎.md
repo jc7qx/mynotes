@@ -53,4 +53,10 @@ Stuxnet
 
 Havex
 * 遠端存取木馬(RAT=Remote Access Trojan)
-* 「Energetic Bear」駭客組織攻擊
+	* watering hole attack
+	* 使用ICS維修商遞送RAT
+	* 更換合法的軟體裝置程式
+	* 內藏惡意碼的軟體裝置程式造成C&C系統後門
+* 「Energetic Bear」駭客組織攻擊能源領域
+* 蒐集有關OPC傳統伺服器資訊，而非POC-UA
+* 利用DCOM找出可能的網路上伺服器
