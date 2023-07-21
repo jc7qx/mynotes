@@ -14,7 +14,7 @@ Defense-in-Depth Model
 * romote access
 * physical protection
 ![[Pasted image 20230721121700.png]]
-ICS資通攻擊模式
+ICS資通攻擊行動
 * 直接攻擊ICS裝備
 	* 利用裝置的弱點
 	* 影響有限
@@ -25,3 +25,25 @@ ICS資通攻擊模式
 	* 集合ICS、流程、資通安全知識
 	* 複雜及持續攻擊
 	* 可能造成災難性衝擊
+
+ICS攻擊模式
+* Loss of View (LoV)
+* Manipulation of View (MoV)
+* Denial of Control (DoC)
+* Manipulation of Control (MoC)
+* Loss of Control (LoC)
+
+攻擊流程
+* Surveillance
+* System Mapping
+* Initial Infection & Compromise
+* Information Exfiltration
+* Preparing the Final Attack
+* Testing Incident Detection & Response
+* Launch the Attack
+
+Stuxnet
+* 成功的複雜攻擊
+* 2010年
+* 2005被發現
+* 
