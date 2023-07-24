@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/台塑演習/桃園煉油廠演練計畫及腳本.md",
+                "file": "研究紀事/台塑演習/Untitled mindmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/台塑演習/桃園煉油廠演練計畫及腳本.md",
+                "file": "研究紀事/台塑演習/Untitled mindmap.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/台塑演習/桃園煉油廠演練計畫及腳本.md",
+                "file": "研究紀事/台塑演習/Untitled mindmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/台塑演習/桃園煉油廠演練計畫及腳本.md"
+                "file": "研究紀事/台塑演習/Untitled mindmap.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/台塑演習/桃園煉油廠演練計畫及腳本.md",
+                "file": "研究紀事/台塑演習/Untitled mindmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,8 +215,10 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
-    "研究紀事/機器學習/win11安裝cuda與cudatoolkits.md",
+    "研究紀事/台塑演習/演練計畫章節.md",
+    "研究紀事/台塑演習/Untitled mindmap.md",
     "研究紀事/台塑演習/桃園煉油廠演練計畫及腳本.md",
+    "研究紀事/機器學習/win11安裝cuda與cudatoolkits.md",
     "研究紀事/台塑演習/ICS基礎.md",
     "附件/Pasted image 20230721121700.png",
     "附件/Pasted image 20230721120612.png",
@@ -247,8 +249,6 @@
     "_input/桌上兵推.md",
     "附件/Pasted image 20230718103630.png",
     "_input/小客車.md",
-    "_input/摩托車.md",
-    "_input/德行東路一段.md",
     "研究紀事/再犯預測/~$知識管理.pptx",
     "Paste image 1689426663768image.png",
     "Paste image 1689427096024image.png",
