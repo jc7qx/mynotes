@@ -11,8 +11,10 @@
             "id": "42bda16918873704",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mindmapview",
+              "state": {
+                "file": "研究紀事/台塑演習/台塑兵推計畫.md"
+              }
             }
           }
         ]
@@ -75,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "研究紀事/台塑演習/台塑兵推計畫.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "研究紀事/台塑演習/台塑兵推計畫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "研究紀事/台塑演習/台塑兵推計畫.md"
+              }
             }
           },
           {
@@ -158,6 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "研究紀事/台塑演習/台塑兵推計畫.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,8 +211,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9d643a3c08864710",
+  "active": "42bda16918873704",
   "lastOpenFiles": [
+    "研究紀事/台塑演習/10個勒索軟體攻擊想定.md",
     "研究紀事/台塑演習/腳本.xlsx",
     "研究紀事/台塑演習/勒索攻擊想定.md",
     "研究紀事/台塑演習/桃園煉油廠演練計畫及腳本.md",
@@ -229,7 +237,6 @@
     "研究紀事/台塑演習/ICS基礎.md",
     "研究紀事/台塑演習/Contaminated Transient Device SCENARIO.md",
     "研究紀事/台塑演習/112年關鍵基礎設施防護演習劇本綱要_(全)23-0607.pdf",
-    "研究紀事/台塑演習/10個勒索軟體攻擊想定.md",
     "研究紀事/台塑演習/演練計畫章節.md",
     "研究紀事/機器學習/win11安裝cuda與cudatoolkits.md",
     "附件/Pasted image 20230721121700.png",
