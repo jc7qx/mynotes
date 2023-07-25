@@ -11,12 +11,8 @@
             "id": "42bda16918873704",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "研究紀事/台塑演習/核三廠.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/台塑演習/核三廠.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/台塑演習/核三廠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "研究紀事/台塑演習/核三廠.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,7 +158,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/台塑演習/核三廠.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
