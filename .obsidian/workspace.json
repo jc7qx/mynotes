@@ -11,9 +11,11 @@
             "id": "42bda16918873704",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "研究紀事/台塑演習/台塑兵推計畫.md"
+                "file": "讀經心得/讀書會筆記.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -60,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "69864e675deb95bd",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/台塑演習/台塑兵推計畫.md",
+                "file": "讀經心得/讀書會筆記.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/台塑演習/台塑兵推計畫.md",
+                "file": "讀經心得/讀書會筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/台塑演習/台塑兵推計畫.md"
+                "file": "讀經心得/讀書會筆記.md"
               }
             }
           },
@@ -165,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/台塑演習/台塑兵推計畫.md",
+                "file": "讀經心得/讀書會筆記.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,6 +215,7 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
+    "研究紀事/台塑演習/台塑兵推計畫.md",
     "研究紀事/台塑演習/10個勒索軟體攻擊想定.md",
     "研究紀事/台塑演習/腳本.xlsx",
     "研究紀事/台塑演習/勒索攻擊想定.md",
@@ -225,7 +227,6 @@
     "研究紀事/台塑演習/台塑過去演習資料_演習編組.pdf",
     "研究紀事/台塑演習/台塑資安演練規劃.docx",
     "研究紀事/台塑演習/台塑麥寮.md",
-    "研究紀事/台塑演習/台塑兵推計畫.md",
     "研究紀事/台塑演習/台中電廠2.pdf",
     "研究紀事/台塑演習/台中電廠.pdf",
     "研究紀事/台塑演習/台中發點廠.md",
