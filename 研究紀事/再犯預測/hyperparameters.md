@@ -1,4 +1,4 @@
-最佳超參數是隨者資料而改變，因此必須要針對每一個資料集來執行超參數的最佳化。
+最佳超參數是隨者資料而改變，因此必須要針對每一個資料集來執行超參數的最佳化。對每一個資料集嚴格地以資料擬合模型，並以超參數調校方法獲取一組最佳超參數。例如，針對隨機森林(Random Forest)而言，超參數可能包括決策樹數量，每顆決策樹的最大深度，每個節點分支考量的最大影響因子樹
 
 we might optimize in a random forest are the number of decision trees, the maximum depth of each decision tree, the maximum number of features considered for splitting each node, and the maximum number of data points required in a leaf node.
 
