@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/再犯預測/訓練模型.md",
+                "file": "研究紀事/再犯預測/hyperparameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 315.5
   },
   "right": {
     "id": "69864e675deb95bd",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/再犯預測/訓練模型.md",
+                "file": "研究紀事/再犯預測/hyperparameters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/再犯預測/訓練模型.md",
+                "file": "研究紀事/再犯預測/hyperparameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/再犯預測/訓練模型.md"
+                "file": "研究紀事/再犯預測/hyperparameters.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/再犯預測/訓練模型.md",
+                "file": "研究紀事/再犯預測/hyperparameters.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,8 +215,9 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
-    "研究紀事/再犯預測/Using machine learning to predict decisions of the European Court of Human Rights.md",
     "研究紀事/再犯預測/訓練模型.md",
+    "研究紀事/再犯預測/hyperparameters.md",
+    "研究紀事/再犯預測/Using machine learning to predict decisions of the European Court of Human Rights.md",
     "研究紀事/再犯預測/Step-By-Step Framework for Imbalanced Classification Projects.md",
     "研究紀事/再犯預測/RF modeling.md",
     "研究紀事/再犯預測/random forest model.md",
@@ -242,7 +242,6 @@
     "研究紀事/台塑演習/桃園煉油廠演練計畫及腳本.md",
     "研究紀事/台塑演習/桃捷.md",
     "研究紀事/台塑演習/核三廠.md",
-    "研究紀事/台塑演習/前五項資安事件應變反應桌上兵推想定.md",
     "研究紀事/台塑演習/台塑演稿.pdf",
     "研究紀事/台塑演習/台塑過去演習資料_演習編組.pdf",
     "研究紀事/台塑演習/台塑資安演練規劃.docx",
