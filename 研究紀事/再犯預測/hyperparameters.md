@@ -11,7 +11,7 @@ _= rand_cv.fit(X, y)
 rand_cv.best_score_
 rand_cv.best_params_
 ```
-Random search randomly samples hyperparameters and tries to get closer to the best set. You should never choose your hyperparameters according to the results of the `RandomSearchCV`. Instead, only use it to narrow down the value range for each hyperparameter so that you can provide a better parameter grid to `GridSearchCV`.
+Random search randomly samples hyperparameters and tries to get closer to the best set. You should never choose your hyperparameters according to the results of the `RandomSearchCV`. Instead, only use it to narrow down the value range for each hyperparameter so that you can provide a better parameter grid to `GridSearchCV`.隨機搜尋對超參數隨機抽樣以便漸漸接近最佳組合，然而不要以隨機搜尋的結果為最佳超參數，應由其結果縮效範圍再繼續找出最佳組合值，可由網格搜尋更深入找出
 
 **GridSearchCV**
 ```python
