@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/再犯預測/hyperparameters.md",
+                "file": "研究紀事/再犯預測/訓練模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/再犯預測/hyperparameters.md",
+                "file": "研究紀事/再犯預測/訓練模型.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/再犯預測/hyperparameters.md",
+                "file": "研究紀事/再犯預測/訓練模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/再犯預測/hyperparameters.md"
+                "file": "研究紀事/再犯預測/訓練模型.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/再犯預測/hyperparameters.md",
+                "file": "研究紀事/再犯預測/訓練模型.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,8 +215,8 @@
   },
   "active": "42bda16918873704",
   "lastOpenFiles": [
-    "研究紀事/再犯預測/未命名.md",
     "研究紀事/再犯預測/hyperparameters.md",
+    "研究紀事/再犯預測/未命名.md",
     "研究紀事/再犯預測/訓練模型.md",
     "研究紀事/再犯預測/Using machine learning to predict decisions of the European Court of Human Rights.md",
     "研究紀事/再犯預測/Step-By-Step Framework for Imbalanced Classification Projects.md",
