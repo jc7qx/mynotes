@@ -7,6 +7,9 @@ Scikit-learn 提供 `GridSearchCV` and `RandomizedSearchCV` 類別可以運�
 from sklearn.model_selection import RandomizedSearchCV
 forest = RandomForestClassifier()
 rand_cv = RandomizedSearchCV(forest, param_grid, n_iter=100, cv=3, scoring="accuracy", n_jobs=-1)
+_= rand_cv.fit(X, y)
+rand_cv.best_score_
+rand_cv.best_params_
 ```
 Random search randomly samples hyperparameters and tries to get closer to the best set. You should never choose your hyperparameters according to the results of the `RandomSearchCV`. Instead, only use it to narrow down the value range for each hyperparameter so that you can provide a better parameter grid to `GridSearchCV`.
 
@@ -14,7 +17,10 @@ Random search randomly samples hyperparameters and tries to get closer to the be
 ```python
 from sklearn.model_selection import GridSearchCV
 forest = RandomForestClassifier()
-grid_cv = GridSearchCV(forest, new_params, n_jobs=-1)
+grid_cv = GridSearchCV(forest, new_params, scoring="accuracy", n_jobs=-1)
+_= grid_cv.fit(X, y)
+rand_cv.best_score_
+rand_cv.best_params
 ```
 a Grid search fits a model using every single combination of these hyperparameters. What is more, in each fit, the Grid search uses cross-validation to account for overfitting. After all combinations are tried, the search retains the parameters that resulted in the best score so that you can use them to build your final model.
 
