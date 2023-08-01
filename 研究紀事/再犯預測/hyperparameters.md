@@ -1,10 +1,6 @@
-最佳超參數是隨者資料而改變，因此必須要針對每一個資料集來執行超參數的最佳化。對每一個資料集嚴格地以資料擬合模型，並以超參數調校方法獲取一組最佳超參數。例如，針對隨機森林(Random Forest)而言，超參數可能包括決策樹數量，每顆決策樹的最大深度，每個節點分支考量的最大影響因子樹
+最佳超參數是隨者資料而改變，因此必須要針對每一個資料集來執行超參數的最佳化。對每一個資料集嚴格地以資料擬合模型，並以超參數調校方法獲取一組最佳超參數。例如，針對隨機森林(Random Forest)而言，超參數可能包括決策樹數量，每顆決策樹的最大深度，每個節點分支考量的最大影響因子數，及每個葉節點的最大資料數量。
 
-we might optimize in a random forest are the number of decision trees, the maximum depth of each decision tree, the maximum number of features considered for splitting each node, and the maximum number of data points required in a leaf node.
 
-They strictly control the fit of the model and this means, for each dataset, there is a unique set of optimal hyperparameters to be found
-
-a Grid search fits a model using every single combination of these hyperparameters. What is more, in each fit, the Grid search uses cross-validation to account for overfitting. After all combinations are tried, the search retains the parameters that resulted in the best score so that you can use them to build your final model.
 
 
 
@@ -24,6 +20,7 @@ from sklearn.model_selection import GridSearchCV
 forest = RandomForestClassifier()
 grid_cv = GridSearchCV(forest, new_params, n_jobs=-1)
 ```
+a Grid search fits a model using every single combination of these hyperparameters. What is more, in each fit, the Grid search uses cross-validation to account for overfitting. After all combinations are tried, the search retains the parameters that resulted in the best score so that you can use them to build your final model.
 
 For large datasets, you need to take a different approach. Fortunately, ‘the different approach’ is already covered by Scikit-learn… again. That’s why my next post is going to be on `HalvingGridSearchCV` and `HalvingRandomizedSearchCV`.
 
