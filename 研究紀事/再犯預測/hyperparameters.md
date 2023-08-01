@@ -14,5 +14,20 @@ You should never choose your hyperparameters according to the results of the `R
 
 For large datasets, you need to take a different approach. Fortunately, ‘the different approach’ is already covered by Scikit-learn… again. That’s why my next post is going to be on `HalvingGridSearchCV` and `HalvingRandomizedSearchCV`.
 
+**RandomSearchCV**
+```python
+from sklearn.model_selection import RandomizedSearchCV
+forest = RandomForestClassifier()
+rand_cv = RandomizedSearchCV(forest, param_grid, n_iter=100, cv=3, scoring="accuracy", n_jobs=-1)
+```
+
+**GridSearchCV**
+```python
+from sklearn.model_selection import GridSearchCV
+forest = RandomForestClassifier()
+grid_cv = GridSearchCV(forest, new_params, n_jobs=-1)
+```
+
+
 
 
