@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/再犯預測/hyperparameters.md",
+                "file": "研究紀事/再犯預測/極限梯度提升.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dccbe7757a4ce397",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/再犯預測/hyperparameters.md",
+                "file": "研究紀事/再犯預測/極限梯度提升.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/再犯預測/hyperparameters.md",
+                "file": "研究紀事/再犯預測/極限梯度提升.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/再犯預測/hyperparameters.md"
+                "file": "研究紀事/再犯預測/極限梯度提升.md"
               }
             }
           },
@@ -166,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/再犯預測/hyperparameters.md",
+                "file": "研究紀事/再犯預測/極限梯度提升.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,12 +224,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "42bda16918873704",
+  "active": "dccbe7757a4ce397",
   "lastOpenFiles": [
+    "研究紀事/再犯預測/hyperparameters.md",
     "研究紀事/再犯預測/隨機森林.md",
     "研究紀事/再犯預測/訓練模型.md",
     "_input/save dict to json to file.md",
-    "研究紀事/再犯預測/hyperparameters.md",
     "研究紀事/再犯預測/未命名.md",
     "研究紀事/再犯預測/Using machine learning to predict decisions of the European Court of Human Rights.md",
     "研究紀事/再犯預測/Step-By-Step Framework for Imbalanced Classification Projects.md",

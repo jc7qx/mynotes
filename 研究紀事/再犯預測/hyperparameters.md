@@ -1,3 +1,4 @@
+#超參數調校 #hyperparameter #RandomSearchCV #GridSearchCV
 最佳超參數是隨者資料而改變，因此必須要針對每一個資料集來執行超參數的最佳化。對每一個資料集嚴格地以資料擬合模型，並以超參數調校方法獲取一組最佳超參數。例如，針對隨機森林(Random Forest)而言，超參數可能包括決策樹數量，每顆決策樹的最大深度，每個節點分支考量的最大影響因子數，及每個葉節點的最大資料數量。
 
 Scikit-learn 提供 `GridSearchCV` and `RandomizedSearchCV` 類別可以運用
@@ -11,7 +12,8 @@ _= rand_cv.fit(X, y)
 rand_cv.best_score_
 rand_cv.best_params_
 ```
-Random search randomly samples hyperparameters and tries to get closer to the best set. You should never choose your hyperparameters according to the results of the `RandomSearchCV`. Instead, only use it to narrow down the value range for each hyperparameter so that you can provide a better parameter grid to `GridSearchCV`.隨機搜尋對超參數隨機抽樣以便漸漸接近最佳組合，然而不要以隨機搜尋的結果為最佳超參數，應由其結果縮效範圍再繼續找出最佳組合值，可由網格搜尋更深入找出
+
+隨機搜尋(`RandomSearchCV`)對超參數隨機抽樣以便漸漸接近最佳組合，然而不要以隨機搜尋的結果為最佳超參數，應由其結果縮效範圍再繼續找出最佳組合值，可運用網格搜尋(`GridSearchCV`)更深入找出最佳參數組合。
 
 **GridSearchCV**
 ```python
