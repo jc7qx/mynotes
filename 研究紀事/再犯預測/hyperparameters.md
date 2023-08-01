@@ -10,3 +10,7 @@ Random search randomly samples hyperparameters and tries to get closer to the be
 
 Scikit-learn provides `GridSearchCV` and `RandomizedSearchCV` classes that make this process a breeze.
 
+You should never choose your hyperparameters according to the results of the `RandomSearchCV`. Instead, only use it to narrow down the value range for each hyperparameter so that you can provide a better parameter grid to `GridSearchCV`.
+
+
+
