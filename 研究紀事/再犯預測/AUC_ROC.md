@@ -24,3 +24,8 @@ def plot_roc_curve(true_y, y_proba):
 
 `roc_auc_score(y_true, y_score)` 
 * 計算ROC_AUC曲線下方的面積，產生一個介於 0~1 的數值，只要等於 0.5 就是跟隨機猜測一樣，代表此分析模型沒有預測價值；若大於 0.5 代表猜測是正向的，而小於 0.5 代表猜測的方向恰好相反；而 1 或 0 代表全部辨識正確或全部辨識錯誤。
+
+[Receiver operating characteristic](https://en.wikipedia.org/wiki/Receiver_operating_characteristic) wikipedia
+[roc_auc_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html) scikit learn
+[roc_auc curve](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html#sklearn.metrics.roc_curve) scikit learn
+
