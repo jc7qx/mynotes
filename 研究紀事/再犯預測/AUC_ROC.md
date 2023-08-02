@@ -1,4 +1,5 @@
-ROC曲線用於表示二元分類器的效能。
-plotting the fraction of true positives out of the positives (TPR = true positive rate) vs. the fraction of false positives out of the negatives (FPR = false positive rate), at various threshold settings. 
-TPR is also known as sensitivity, and FPR is one minus the specificity or true negative rate.
+ROC曲線用於表示二元分類器的效能。ROC表示TPR與FPR之間的關係(TPR = true positive rate，FPR = false positive rate)，TPR 為 sensitivity，FPR為 - specificity 或 true negative rate。
+
+繪製方式：
+
 計算曲線下方的面積，產生一個介於 0~1 的數值，只要等於 0.5 就是跟隨機猜測一樣，代表此分析模型沒有預測價值；若大於 0.5 代表猜測是正向的，而小於 0.5 代表猜測的方向恰好相反；而 1 或 0 代表全部辨識正確或全部辨識錯誤。
