@@ -1,3 +1,4 @@
+#roc_auc #roc_auc_curve
 ROC(receiver operating characteristic, ROC)曲線用於表示二元分類器的效能。ROC表示TPR與FPR之間的關係(TPR = true positive rate，FPR = false positive rate)，TPR 為 sensitivity，FPR為 - specificity 或 true negative rate。
 
 繪製方式：
