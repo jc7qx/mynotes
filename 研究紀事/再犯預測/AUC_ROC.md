@@ -20,6 +20,7 @@ def plot_roc_curve(true_y, y_proba):
 	* **y_true**: True binary labels. labels are either {-1, 1} or {0, 1}
 	* **y_score**: Target scores, probability estimates of the positive class
 	* **pos_label**: int, float, bool or str, default=None. The label of the positive class. When `pos_label=None`, if `y_true` is in {-1, 1} or {0, 1}, `pos_label` is set to 1, otherwise an error will be raised.
-
+	* **returns**: <mark style="background: #FF5582A6;">fpr</mark>, <mark style="background: #FF5582A6;">tpr</mark>, <mark style="background: #FF5582A6;">thresholds</mark>
+`roc_auc_score` Compute Area Under the Receiver Operating Characteristic Curve (ROC AUC) from prediction scores.
 
 計算曲線下方的面積，產生一個介於 0~1 的數值，只要等於 0.5 就是跟隨機猜測一樣，代表此分析模型沒有預測價值；若大於 0.5 代表猜測是正向的，而小於 0.5 代表猜測的方向恰好相反；而 1 或 0 代表全部辨識正確或全部辨識錯誤。
