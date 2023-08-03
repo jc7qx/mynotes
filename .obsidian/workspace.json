@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/再犯預測/ROC_AUC.md",
+                "file": "研究紀事/再犯預測/資料檔案.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/再犯預測/ROC_AUC.md",
+                "file": "研究紀事/再犯預測/資料檔案.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/再犯預測/ROC_AUC.md",
+                "file": "研究紀事/再犯預測/資料檔案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/再犯預測/ROC_AUC.md"
+                "file": "研究紀事/再犯預測/資料檔案.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/再犯預測/ROC_AUC.md",
+                "file": "研究紀事/再犯預測/資料檔案.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,8 +228,11 @@
   },
   "active": "dccbe7757a4ce397",
   "lastOpenFiles": [
-    "研究紀事/再犯預測/極限梯度提升.md",
+    "附件/Pasted image 20230803120035.png",
+    "附件/Pasted image 20230803115925.png",
     "研究紀事/再犯預測/ROC_AUC.md",
+    "研究紀事/再犯預測/資料檔案.md",
+    "研究紀事/再犯預測/極限梯度提升.md",
     "讀經心得/讀書會筆記.md",
     "讀經心得/讀書會講義.md",
     "研究紀事/再犯預測/hyperparameters.md",
@@ -252,9 +255,7 @@
     "研究紀事/再犯預測/費城評估假釋犯再犯系統.md",
     "研究紀事/再犯預測/監督式機器學習.md",
     "研究紀事/台塑演習/台塑兵推計畫.md",
-    "研究紀事/台塑演習/10個勒索軟體攻擊想定.md",
     "研究紀事/台塑演習/腳本.xlsx",
-    "研究紀事/台塑演習/勒索攻擊想定.md",
     "研究紀事/台塑演習/台塑演稿.pdf",
     "研究紀事/台塑演習/台塑過去演習資料_演習編組.pdf",
     "研究紀事/台塑演習/台塑資安演練規劃.docx",
@@ -271,7 +272,6 @@
     "Paste image 1689426663768image.png",
     "Paste image 1689427096024image.png",
     "Paste image 1689427062098image.png",
-    "Paste image 1689426896507image.png",
     "研究紀事/再犯預測/ppt9B50.tmp",
     "研究紀事/再犯預測/ppt51A.tmp"
   ]
