@@ -73,6 +73,14 @@ print(f"{baseline_model_cv['test_score'].mean():.3f} +/- {baseline_model_cv['tes
 ```
 
 ## weights for dataset
+majority class 有79183筆資料，minroity class 有817筆資料
 weights for the majority class=$\frac{1}{\frac{79183}{79183+817}}$=1.010
 weights for the minority class=$\frac{1}{\frac{817}{79183+817}}$=97.919
 
+### Calculate weights using sklearn
+```python
+sklearn_weights = class_weight.compute_class_weight('balanced', np.unique(y_train), y_train)  
+sklearn_weights[0]*2 # weights for the majority class
+sklearn_weights[1]*2 # weights for the minority class
+#array([ 0.50515894, 48.95960832])
+```

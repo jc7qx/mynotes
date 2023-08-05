@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "69864e675deb95bd",
@@ -225,7 +226,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "069af06494ba52eb",
+  "active": "dccbe7757a4ce397",
   "lastOpenFiles": [
     "研究紀事/再犯預測/RF modeling.md",
     "研究紀事/再犯預測/balanced weight in imbalanced classification.md",
