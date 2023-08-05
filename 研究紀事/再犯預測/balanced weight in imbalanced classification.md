@@ -4,6 +4,7 @@ Balanced weight of majority and minority classes is modified to achieve better m
 
 balanced weight methods penalize the wrong predictions on the minority class by giving more weight to the loss function.
 
+## required packages
 ```python
 # Synthetic dataset  
 from sklearn.datasets import make_classification
@@ -50,5 +51,12 @@ sns.scatterplot(x = 'feature1', y = 'feature2', hue = 'target', data = df)
 ```
 
 ## Train Test Split
-
+```python
+# Train test split  
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+# Check the number of records  
+print('training dataset資料比數', X_train.shape[0])  
+print('test dataset資料比數', X_test.shape[0])  
+print(f"training dataset有{sorted(Counter(y_train).items())[0][1]} 筆資料屬於majority class and {sorted(Counter(y_train).items())[1][1]} 筆資料屬於minority class.")
+```
 
