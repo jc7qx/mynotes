@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/再犯預測/資料檔案.md",
+                "file": "讀經心得/讀書會筆記.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/再犯預測/資料檔案.md",
+                "file": "讀經心得/讀書會筆記.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/再犯預測/資料檔案.md",
+                "file": "讀經心得/讀書會筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/再犯預測/資料檔案.md"
+                "file": "讀經心得/讀書會筆記.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/再犯預測/資料檔案.md",
+                "file": "讀經心得/讀書會筆記.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,10 +228,10 @@
   },
   "active": "dccbe7757a4ce397",
   "lastOpenFiles": [
+    "研究紀事/再犯預測/資料檔案.md",
     "附件/Pasted image 20230803120035.png",
     "附件/Pasted image 20230803115925.png",
     "研究紀事/再犯預測/ROC_AUC.md",
-    "研究紀事/再犯預測/資料檔案.md",
     "研究紀事/再犯預測/極限梯度提升.md",
     "讀經心得/讀書會筆記.md",
     "讀經心得/讀書會講義.md",
@@ -271,7 +271,6 @@
     "研究紀事/再犯預測/~$知識管理.pptx",
     "Paste image 1689426663768image.png",
     "Paste image 1689427096024image.png",
-    "Paste image 1689427062098image.png",
     "研究紀事/再犯預測/ppt9B50.tmp",
     "研究紀事/再犯預測/ppt51A.tmp"
   ]
