@@ -72,4 +72,7 @@ print(f"{baseline_model_cv['test_score'].mean():.3f} +/- {baseline_model_cv['tes
 # 0.043 +/- 0.016
 ```
 
-weights for dataset
+## weights for dataset
+weights for the majority class=$\frac{1}{\frac{79183}{79183+817}}$=1.010
+weights for the minority class=$\frac{1}{\frac{817}{79183+817}}$=97.919
+
