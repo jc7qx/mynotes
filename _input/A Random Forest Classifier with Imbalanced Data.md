@@ -12,5 +12,20 @@ pipeline and defined my preprocessor
 ```python
 from sklearn.preprocessing import StandardScaler, OneHotEncoder  
 from sklearn.compose import ColumnTransformer  
-from imblearn.pipeline import Pipelinenumeric_transformer = Pipeline(steps=[('scaler', StandardScaler())])categorical_transformer = Pipeline(steps=[('onehot', OneHotEncoder(handle_unknown='ignore'))])preprocessor = ColumnTransformer(remainder='drop',       transformers=[('num', numeric_transformer, cols_to_scale),                                     ('cat', categorical_transformer, categorical_features)])
+from imblearn.pipeline import Pipeline
+
+numeric_transformer = Pipeline(steps=[('scaler', StandardScaler())])
+
+categorical_transformer = Pipeline(
+	steps=[('onehot', 
+		OneHotEncoder(handle_unknown='ignore'))
+	]
+)
+
+preprocessor = ColumnTransformer(
+	remainder='drop', 
+	transformers=[
+		('num', numeric_transformer, cols_to_scale), 
+		('cat', categorical_transformer, categorical_features)]
+)
 ```
