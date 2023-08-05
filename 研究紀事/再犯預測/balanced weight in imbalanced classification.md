@@ -94,5 +94,23 @@ rf_balanced_cv = cross_validate(rf_balanced, X_train, y_train, cv=StratifiedKFol
 print(f"{rf_balanced_cv['test_score'].mean():.3f} +/- {rf_balanced_cv['test_score'].std():.3f}")
 #0.031 +/- 0.015
 ```
-
+* `balanced` has the same weights for every tree based on the calculation of all the modeling data points.
+* `balanced_subsample` calculates the weights based on the samples for each tree, whil
 ## Random Forest Model with balanced subsample class weight
+```python
+# Train the random forest model using class_weight = 'balanced_subsample' 
+rf_balanced_subsample = RandomForestClassifier(class_weight='balanced_subsample', random_state=0, n_jobs=-1)  
+rf_balanced_subsample_cv = cross_validate(rf_balanced_subsample, X_train, y_train, cv=StratifiedKFold(n_splits=5), n_jobs=-1, scoring="recall")
+# Check the model performance  
+print(f"{rf_balanced_subsample_cv['test_score'].mean():.3f} +/- {rf_balanced_subsample_cv['test_score'].std():.3f}")
+```
+
+## use the best model on tarining dataset
+```python
+# Train the logistic regression model using the balanced weights  
+lr_balanced = LogisticRegression(class_weight='balanced', random_state=0, n_jobs=-1)  
+lr_balanced_model = lr_balanced.fit(X_train, y_train)  
+lr_balanced_prediction = lr_balanced_model.predict(X_test)
+# Check the model performance  
+print(classification_report(y_test, lr_balanced_prediction))
+```
