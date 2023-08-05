@@ -60,3 +60,16 @@ print('test dataset資料比數', X_test.shape[0])
 print(f"training dataset有{sorted(Counter(y_train).items())[0][1]} 筆資料屬於majority class and {sorted(Counter(y_train).items())[1][1]} 筆資料屬於minority class.")
 ```
 
+## baseline model
+使用cross-validation評估模式效能
+使用minority class的recall為效能量度
+```python
+# Train the random forest model using the imbalanced dataset  
+rf = RandomForestClassifier(random_state=0, n_jobs=-1)  
+baseline_model_cv = cross_validate(rf, X_train, y_train, cv=StratifiedKFold(n_splits=5), n_jobs=-1, scoring="recall")
+# Check the model performance  
+print(f"{baseline_model_cv['test_score'].mean():.3f} +/- {baseline_model_cv['test_score'].std():.3f}")
+# 0.043 +/- 0.016
+```
+
+weights for dataset
