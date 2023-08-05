@@ -84,3 +84,15 @@ sklearn_weights[0]*2 # weights for the majority class
 sklearn_weights[1]*2 # weights for the minority class
 #array([ 0.50515894, 48.95960832])
 ```
+
+## Random Forest Model with balanced class weight
+```python
+# Train the random forest model using class_weight = 'balanced'  
+rf_balanced = RandomForestClassifier(class_weight='balanced', random_state=0, n_jobs=-1)  
+rf_balanced_cv = cross_validate(rf_balanced, X_train, y_train, cv=StratifiedKFold(n_splits=5), n_jobs=-1, scoring="recall")
+# Check the model performance  
+print(f"{rf_balanced_cv['test_score'].mean():.3f} +/- {rf_balanced_cv['test_score'].std():.3f}")
+#0.031 +/- 0.015
+```
+
+## Random Forest Model with balanced subsample class weight
