@@ -22,7 +22,7 @@ from sklearn.utils import class_weight
 from sklearn.metrics import classification_report
 ```
 
-use `make_classification` to create an imbalanced dataset
+## use `make_classification` to create an imbalanced dataset
 ```python
 # Create an imbalanced dataset  
 X, y = make_classification(n_samples=100000, 
@@ -35,4 +35,20 @@ df = pd.DataFrame({'feature1': X[:, 0], 'feature2': X[:, 1], 'target': y})
 # Check the target distribution  
 df['target'].value_counts(normalize = True)
 ```
+The output shows that we have about 1% of the data in the minority class and 99% in the majority class.
+```
+0     0.9897
+1     0.0103
+Name: target, dtype:float64
+```
+
+## visulaized the imbalanced data
+```python
+# Visualize the data  
+plt.figure(figsize=(12, 8))  
+sns.scatterplot(x = 'feature1', y = 'feature2', hue = 'target', data = df)
+```
+
+## Train Test Split
+
 
