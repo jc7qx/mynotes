@@ -5,7 +5,7 @@ Balanced weight of majority and minority classes is modified to achieve better m
 balanced weight methods penalize the wrong predictions on the minority class by giving more weight to the loss function.
 
 ```python
-# 建立資料集  
+# Synthetic dataset  
 from sklearn.datasets import make_classification
 # Data processing  
 import pandas as pd  
@@ -20,5 +20,19 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression  
 from sklearn.utils import class_weight  
 from sklearn.metrics import classification_report
+```
+
+use `make_classification` to create an imbalanced dataset
+```python
+# Create an imbalanced dataset  
+X, y = make_classification(n_samples=100000, 
+	n_features=2, n_informative=2,  
+	n_redundant=0, n_repeated=0, n_classes=2, 
+	n_clusters_per_class=1,  weights=[0.995, 0.005],
+	class_sep=0.5, random_state=0)
+# Convert the data from numpy array to a pandas dataframe  
+df = pd.DataFrame({'feature1': X[:, 0], 'feature2': X[:, 1], 'target': y})
+# Check the target distribution  
+df['target'].value_counts(normalize = True)
 ```
 
