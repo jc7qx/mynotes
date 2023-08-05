@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/再犯預測/balanced weight in imbalanced classification.md",
+                "file": "研究紀事/再犯預測/RF modeling.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "69864e675deb95bd",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/再犯預測/balanced weight in imbalanced classification.md",
+                "file": "研究紀事/再犯預測/RF modeling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/再犯預測/balanced weight in imbalanced classification.md",
+                "file": "研究紀事/再犯預測/RF modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/再犯預測/balanced weight in imbalanced classification.md"
+                "file": "研究紀事/再犯預測/RF modeling.md"
               }
             }
           },
@@ -180,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/再犯預測/balanced weight in imbalanced classification.md",
+                "file": "研究紀事/再犯預測/RF modeling.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,11 +227,13 @@
   },
   "active": "dccbe7757a4ce397",
   "lastOpenFiles": [
+    "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
     "研究紀事/再犯預測/RF modeling.md",
-    "研究紀事/再犯預測/balanced weight in imbalanced classification.md",
     "研究紀事/再犯預測/random forest model.md",
     "研究紀事/再犯預測/Random Forest for Imbalanced Classification.md",
+    "研究紀事/再犯預測/Machine learning and deep learning.md",
     "研究紀事/再犯預測/Imbalanced Classification.md",
+    "研究紀事/再犯預測/classification.md",
     "_input/權重調整.md",
     "parole.md",
     "mamba.md",
@@ -251,9 +252,7 @@
     "研究紀事/再犯預測/Step-By-Step Framework for Imbalanced Classification Projects.md",
     "研究紀事/再犯預測/pandas學習心得.md",
     "研究紀事/再犯預測/OASys.md",
-    "研究紀事/再犯預測/Machine learning and deep learning.md",
     "研究紀事/再犯預測/COMPAS.md",
-    "研究紀事/再犯預測/classification.md",
     "研究紀事/再犯預測/觀護作業流程.md",
     "研究紀事/再犯預測/觀護人使用情境.md",
     "研究紀事/台塑演習/腳本.xlsx",

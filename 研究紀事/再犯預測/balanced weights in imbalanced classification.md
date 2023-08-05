@@ -1,4 +1,7 @@
-#imbalancedclassification
+#imbalancedclassification #balancedweight #randomforest
+#counter #classificationreport
+
+[Balanced Weights For Imbalanced Classification](https://medium.com/grabngoinfo/balanced-weights-for-imbalanced-classification-465f0e13c5ad)
 
 Balanced weight of majority and minority classes is modified to achieve better model results during model training process.
 
@@ -111,6 +114,6 @@ print(f"{rf_balanced_subsample_cv['test_score'].mean():.3f} +/- {rf_balanced_sub
 lr_balanced = LogisticRegression(class_weight='balanced', random_state=0, n_jobs=-1)  
 lr_balanced_model = lr_balanced.fit(X_train, y_train)  
 lr_balanced_prediction = lr_balanced_model.predict(X_test)
-# Check the model performance  
+# Check the model performance
 print(classification_report(y_test, lr_balanced_prediction))
 ```
