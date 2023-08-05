@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "parole.md",
+                "file": "研究紀事/再犯預測/Random Forest for Imbalanced Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "parole.md",
+                "file": "研究紀事/再犯預測/Random Forest for Imbalanced Classification.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "parole.md",
+                "file": "研究紀事/再犯預測/Random Forest for Imbalanced Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "parole.md"
+                "file": "研究紀事/再犯預測/Random Forest for Imbalanced Classification.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "parole.md",
+                "file": "研究紀事/再犯預測/Random Forest for Imbalanced Classification.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,6 +228,9 @@
   },
   "active": "dccbe7757a4ce397",
   "lastOpenFiles": [
+    "研究紀事/再犯預測/Imbalanced Classification.md",
+    "_input/權重調整.md",
+    "parole.md",
     "mamba.md",
     "讀經心得/讀書會筆記.md",
     "研究紀事/再犯預測/資料檔案.md",
@@ -248,14 +251,11 @@
     "研究紀事/再犯預測/pandas學習心得.md",
     "研究紀事/再犯預測/OASys.md",
     "研究紀事/再犯預測/Machine learning and deep learning.md",
-    "研究紀事/再犯預測/Imbalanced Classification.md",
     "研究紀事/再犯預測/COMPAS.md",
     "研究紀事/再犯預測/classification.md",
     "研究紀事/再犯預測/觀護作業流程.md",
     "研究紀事/再犯預測/觀護人使用情境.md",
     "研究紀事/再犯預測/費城評估假釋犯再犯系統.md",
-    "研究紀事/再犯預測/監督式機器學習.md",
-    "研究紀事/台塑演習/台塑兵推計畫.md",
     "研究紀事/台塑演習/腳本.xlsx",
     "研究紀事/台塑演習/台塑演稿.pdf",
     "研究紀事/台塑演習/台塑過去演習資料_演習編組.pdf",
