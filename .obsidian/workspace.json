@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/再犯預測/RF modeling.md",
+                "file": "研究紀事/再犯預測/balanced weight in imbalanced classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/再犯預測/RF modeling.md",
+                "file": "研究紀事/再犯預測/balanced weight in imbalanced classification.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/再犯預測/RF modeling.md",
+                "file": "研究紀事/再犯預測/balanced weight in imbalanced classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/再犯預測/RF modeling.md"
+                "file": "研究紀事/再犯預測/balanced weight in imbalanced classification.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#卡片盒筆記法",
+                "query": "tag:#imbalanced",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/再犯預測/RF modeling.md",
+                "file": "研究紀事/再犯預測/balanced weight in imbalanced classification.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +225,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "dccbe7757a4ce397",
+  "active": "069af06494ba52eb",
   "lastOpenFiles": [
+    "研究紀事/再犯預測/RF modeling.md",
+    "研究紀事/再犯預測/balanced weight in imbalanced classification.md",
     "研究紀事/再犯預測/random forest model.md",
     "研究紀事/再犯預測/Random Forest for Imbalanced Classification.md",
     "研究紀事/再犯預測/Imbalanced Classification.md",
@@ -247,7 +248,6 @@
     "_input/save dict to json to file.md",
     "研究紀事/再犯預測/Using machine learning to predict decisions of the European Court of Human Rights.md",
     "研究紀事/再犯預測/Step-By-Step Framework for Imbalanced Classification Projects.md",
-    "研究紀事/再犯預測/RF modeling.md",
     "研究紀事/再犯預測/pandas學習心得.md",
     "研究紀事/再犯預測/OASys.md",
     "研究紀事/再犯預測/Machine learning and deep learning.md",
@@ -255,7 +255,6 @@
     "研究紀事/再犯預測/classification.md",
     "研究紀事/再犯預測/觀護作業流程.md",
     "研究紀事/再犯預測/觀護人使用情境.md",
-    "研究紀事/再犯預測/費城評估假釋犯再犯系統.md",
     "研究紀事/台塑演習/腳本.xlsx",
     "研究紀事/台塑演習/台塑演稿.pdf",
     "研究紀事/台塑演習/台塑過去演習資料_演習編組.pdf",
