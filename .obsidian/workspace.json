@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "讀經心得/讀書會筆記0813.md",
+                "file": "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "讀經心得/讀書會筆記0813.md",
+                "file": "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "讀經心得/讀書會筆記0813.md",
+                "file": "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "讀經心得/讀書會筆記0813.md"
+                "file": "研究紀事/再犯預測/balanced weights in imbalanced classification.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "讀經心得/讀書會筆記0813.md",
+                "file": "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,8 +228,9 @@
   },
   "active": "dccbe7757a4ce397",
   "lastOpenFiles": [
-    "讀經心得/讀書會筆記.md",
+    "研究紀事/再犯預測/訓練模型.md",
     "讀經心得/讀書會筆記0813.md",
+    "讀經心得/讀書會筆記.md",
     "讀經心得/讀書會講義.md",
     "_input/A Random Forest Classifier with Imbalanced Data.md",
     "研究紀事/再犯預測/RF modeling.md",
@@ -249,7 +250,6 @@
     "研究紀事/再犯預測/極限梯度提升.md",
     "研究紀事/再犯預測/hyperparameters.md",
     "研究紀事/再犯預測/隨機森林.md",
-    "研究紀事/再犯預測/訓練模型.md",
     "_input/save dict to json to file.md",
     "研究紀事/再犯預測/Using machine learning to predict decisions of the European Court of Human Rights.md",
     "研究紀事/再犯預測/Step-By-Step Framework for Imbalanced Classification Projects.md",
