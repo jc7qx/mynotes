@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_input/A Random Forest Classifier with Imbalanced Data.md",
+                "file": "讀經心得/讀書會筆記0813.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_input/A Random Forest Classifier with Imbalanced Data.md",
+                "file": "讀經心得/讀書會筆記0813.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_input/A Random Forest Classifier with Imbalanced Data.md",
+                "file": "讀經心得/讀書會筆記0813.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_input/A Random Forest Classifier with Imbalanced Data.md"
+                "file": "讀經心得/讀書會筆記0813.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_input/A Random Forest Classifier with Imbalanced Data.md",
+                "file": "讀經心得/讀書會筆記0813.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,8 +228,11 @@
   },
   "active": "dccbe7757a4ce397",
   "lastOpenFiles": [
-    "研究紀事/再犯預測/RF modeling.md",
+    "讀經心得/讀書會筆記.md",
+    "讀經心得/讀書會筆記0813.md",
+    "讀經心得/讀書會講義.md",
     "_input/A Random Forest Classifier with Imbalanced Data.md",
+    "研究紀事/再犯預測/RF modeling.md",
     "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
     "研究紀事/再犯預測/random forest model.md",
     "研究紀事/再犯預測/Random Forest for Imbalanced Classification.md",
@@ -239,13 +242,11 @@
     "_input/權重調整.md",
     "parole.md",
     "mamba.md",
-    "讀經心得/讀書會筆記.md",
     "研究紀事/再犯預測/資料檔案.md",
     "附件/Pasted image 20230803120035.png",
     "附件/Pasted image 20230803115925.png",
     "研究紀事/再犯預測/ROC_AUC.md",
     "研究紀事/再犯預測/極限梯度提升.md",
-    "讀經心得/讀書會講義.md",
     "研究紀事/再犯預測/hyperparameters.md",
     "研究紀事/再犯預測/隨機森林.md",
     "研究紀事/再犯預測/訓練模型.md",
@@ -255,7 +256,6 @@
     "研究紀事/再犯預測/pandas學習心得.md",
     "研究紀事/再犯預測/OASys.md",
     "研究紀事/再犯預測/COMPAS.md",
-    "研究紀事/再犯預測/觀護作業流程.md",
     "研究紀事/台塑演習/腳本.xlsx",
     "研究紀事/台塑演習/台塑演稿.pdf",
     "研究紀事/台塑演習/台塑過去演習資料_演習編組.pdf",
