@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
+                "file": "研究紀事/再犯預測/訓練模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
+                "file": "研究紀事/再犯預測/訓練模型.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
+                "file": "研究紀事/再犯預測/訓練模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/再犯預測/balanced weights in imbalanced classification.md"
+                "file": "研究紀事/再犯預測/訓練模型.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
+                "file": "研究紀事/再犯預測/訓練模型.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,13 +228,13 @@
   },
   "active": "dccbe7757a4ce397",
   "lastOpenFiles": [
+    "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
     "研究紀事/再犯預測/訓練模型.md",
     "讀經心得/讀書會筆記0813.md",
     "讀經心得/讀書會筆記.md",
     "讀經心得/讀書會講義.md",
     "_input/A Random Forest Classifier with Imbalanced Data.md",
     "研究紀事/再犯預測/RF modeling.md",
-    "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
     "研究紀事/再犯預測/random forest model.md",
     "研究紀事/再犯預測/Random Forest for Imbalanced Classification.md",
     "研究紀事/再犯預測/Machine learning and deep learning.md",
