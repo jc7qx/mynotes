@@ -13,5 +13,10 @@ key points:
 2. YOLOv8模型訓練
 	1. 準備圖片影像資料
 	2. 分為train, valid, test資料夾
-		* images
-		* labels
+		* images (圖片)
+		* labels (標註)
+			* LabelImg
+			* RoboFlow
+3. 選擇模型
+4. 下載模型
+5. 訓練指令
