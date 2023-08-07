@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究紀事/yolov8/YOLOv8.md",
+                "file": "研究紀事/yolov8/YOLOv8 深度詳解.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究紀事/yolov8/YOLOv8.md",
+                "file": "研究紀事/yolov8/YOLOv8 深度詳解.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究紀事/yolov8/YOLOv8.md",
+                "file": "研究紀事/yolov8/YOLOv8 深度詳解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究紀事/yolov8/YOLOv8.md"
+                "file": "研究紀事/yolov8/YOLOv8 深度詳解.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "研究紀事/yolov8/YOLOv8.md",
+                "file": "研究紀事/yolov8/YOLOv8 深度詳解.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,8 +240,9 @@
   },
   "active": "48a57ffb71da6b32",
   "lastOpenFiles": [
-    "研究紀事/yolov8/YOLOv8 基本環境與教學.md",
     "研究紀事/yolov8/YOLOv8.md",
+    "研究紀事/yolov8/YOLOv8 深度詳解.md",
+    "研究紀事/yolov8/YOLOv8 基本環境與教學.md",
     "研究紀事/yolov8",
     "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
     "研究紀事/再犯預測/訓練模型.md",
@@ -268,7 +269,6 @@
     "_input/save dict to json to file.md",
     "研究紀事/再犯預測/Using machine learning to predict decisions of the European Court of Human Rights.md",
     "研究紀事/再犯預測/Step-By-Step Framework for Imbalanced Classification Projects.md",
-    "研究紀事/再犯預測/pandas學習心得.md",
     "研究紀事/台塑演習/腳本.xlsx",
     "研究紀事/台塑演習/台塑演稿.pdf",
     "研究紀事/台塑演習/台塑過去演習資料_演習編組.pdf",
