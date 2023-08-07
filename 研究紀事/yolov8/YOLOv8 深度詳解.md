@@ -5,4 +5,11 @@ source: https://juejin.cn/post/7187726947252699192
 **官方開源地址：** **[github.com/ultralytics…](https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fultralytics%2Fultralytics "https://github.com/ultralytics/ultralytics")**
 **MMYOLO 開源地址：** **[github.com/open-mmlab/…](https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fopen-mmlab%2Fmmyolo%2Fblob%2Fdev%2Fconfigs%2Fyolov8%2F "https://github.com/open-mmlab/mmyolo/blob/dev/configs/yolov8/")**
 
+[[模型結構]]設計
+Loss 函數計算
+### 訓練數據增強
+[[### 訓練策略]]
+[[### 模型推理]]過程
+[[### 特徵圖]]可視化
+
 #yolov8 
