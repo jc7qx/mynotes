@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48a57ffb71da6b32",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +236,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "dccbe7757a4ce397",
+  "active": "48a57ffb71da6b32",
   "lastOpenFiles": [
     "研究紀事/再犯預測/balanced weights in imbalanced classification.md",
     "研究紀事/再犯預測/訓練模型.md",
