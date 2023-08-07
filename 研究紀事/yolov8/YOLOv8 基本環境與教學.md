@@ -48,3 +48,5 @@ result = model.predict(
 	device="cpu" 
 )
 ```
+
+#yolo建模 #roboflow #labelimg #pytorch
