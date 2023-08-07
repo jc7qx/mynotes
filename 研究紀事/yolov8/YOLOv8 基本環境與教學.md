@@ -10,3 +10,8 @@ key points:
 	1. 下載CUDA及cuDNN
 	2. 安裝python版本
 	3. 安裝 pyTorch
+2. YOLOv8模型訓練
+	1. 準備圖片影像資料
+	2. 分為train, valid, test資料夾
+		* images
+		* labels
