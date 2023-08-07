@@ -1,6 +1,5 @@
 source: 
 https://hackmd.io/@luckychi/yolov8_simple_tutorial
-
 key points:
 * 建立基本環境
 * 訓練模型
@@ -31,6 +30,7 @@ model = YOLO("yolov8n.yaml") model.train(data="data.yaml",
 	device="cpu"
 )
 ```
+
 其中device參數若未指定則會使用GPU進行訓練，device=0 使用第一張GPU卡，device=0,1使用2張卡來進行運算，device=cpu 使用CPU來運算，筆者測試的電腦顯示卡型號太舊，故使用CPU來進行訓練與預測。
 訓練完後的資料會出現在`runs/detect/train`底下，訓練好的模型放在`runs/detect/train/weights`
 
