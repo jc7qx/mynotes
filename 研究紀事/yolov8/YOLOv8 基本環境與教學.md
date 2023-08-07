@@ -49,4 +49,4 @@ result = model.predict(
 )
 ```
 
-#yolo建模 #roboflow #labelimg #pytorch
+#yolo建模 #roboflow #labelimg #pytorch #yolov8
