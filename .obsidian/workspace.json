@@ -41,10 +41,53 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "df8fcadeeabb4d13"
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "6fab7403b38263e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c286860fbcadf73",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "研究紀事/yolov8/YOLOv8 深度詳解.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.8145751953125,
+                  "repelStrength": 6.05875651041667,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "df8fcadeeabb4d13"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +281,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "48a57ffb71da6b32",
+  "active": "0c286860fbcadf73",
   "lastOpenFiles": [
     "研究紀事/yolov8/YOLOv8.md",
     "研究紀事/yolov8/YOLOv8 深度詳解.md",
