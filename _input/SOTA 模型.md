@@ -1,0 +1,1 @@
+SOTA = State Of The Art Model
